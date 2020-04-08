@@ -1,4 +1,4 @@
-baseURL = "http://ro.vu/"
+baseURL = "https://ro.vu/"
 languageCode = "en-us"
 title = "RO.VU"
 theme = "minimal"
