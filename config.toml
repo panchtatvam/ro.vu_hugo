@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "http://ro.vu/"
 languageCode = "en-us"
 title = "RO.VU"
 theme = "minimal"
@@ -12,7 +12,7 @@ theme = "minimal"
     accent = "#47536e"
     showBorder = false
     backgroundColor = "#fff"
-    font = "Proxima Nova" # should match the name on Google Fonts!
+    font = "Noto Sans" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["python", "java"]
