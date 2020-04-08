@@ -1,21 +1,21 @@
 baseURL = "http://example.com/"
 languageCode = "en-us"
-title = "Minimal"
+title = "RO.VU"
 theme = "minimal"
-disqusShortname = "username" # delete this to disable disqus comments
-googleAnalytics = ""
+#disqusShortname = "username" # delete this to disable disqus comments
+#googleAnalytics = ""
 
 [params]
-    author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
+    author = "JRO"
+    description = "Notes and info"
     githubUsername = "#"
-    accent = "red"
-    showBorder = true
-    backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
+    accent = "#47536e"
+    showBorder = false
+    backgroundColor = "#ebeff5"
+    font = "Proxima Nova" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "default"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    highlightLanguages = ["python", "java"]
 
 [[menu.main]]
     url = "/"
@@ -28,8 +28,8 @@ googleAnalytics = ""
     weight = 2
 
 [[menu.main]]
-    url = "/post/"
-    name = "Posts"
+    url = "/notes/"
+    name = "Notes"
     weight = 3
 
 [[menu.main]]
@@ -42,26 +42,14 @@ googleAnalytics = ""
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "mailto:me@example.com"
+    url = "mailto:j@ro.vu"
     name = "envelope-o"
     weight = 1
 
-[[menu.icon]]
-    url = "https://github.com/username/"
-    name = "github"
-    weight = 2
 
-[[menu.icon]]
-    url = "https://twitter.com/username/"
-    name = "twitter"
-    weight = 3
+#[[menu.icon]]
+#    url = "https://www.linkedin.com/in/username/"
+#    name = "linkedin"
+#    weight = 4
 
-[[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
-    name = "linkedin"
-    weight = 4
 
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "stack-overflow"
-    weight = 5
