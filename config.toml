@@ -1,210 +1,67 @@
-baseURL = "http://ro.vu"
-title = "ro.vu"
-# for smart copyright line, leave this blank and check [params.copyright]
-copyright = " "
-
-theme = "minimo"
-
-disqusShortname = ""
+baseURL = "http://example.com/"
+languageCode = "en-us"
+title = "Minimal"
+theme = "minimal"
+disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
-Paginate = 5
-preserveTaxonomyNames = true
+[params]
+    author = "Calin Tataru"
+    description = "Personal blog theme powered by Hugo"
+    githubUsername = "#"
+    accent = "red"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
-enableRobotsTXT = true # generate robots.txt
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
 
-# Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
-pygmentsCodefences = true
+[[menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 2
 
-enableEmoji = true
+[[menu.main]]
+    url = "/post/"
+    name = "Posts"
+    weight = 3
 
-# Missing translations will default to this content language
-defaultContentLanguage = "en"
+[[menu.main]]
+    url = "/project/"
+    name = "Projects"
+    weight = 4
 
-[params.info]
-description = ""
-title404 = "Page not found."
+# Social icons to be shown on the right-hand side of the navigation bar.
+# The "name" field should match the name of the icon in Font Awesome.
+# The list of available icons can be found at http://fontawesome.io/icons.
 
-[params.assets]
-favicon = "favicon.ico"
-customCSS = ["css/custom.css"]
-customJS = ["js/custom.js"]
-gopher = "" # used in 404 template ( Generator: https://gopherize.me )
+[[menu.icon]]
+    url = "mailto:me@example.com"
+    name = "envelope-o"
+    weight = 1
 
-[params.copyright]
-prefix = ""
-holder = ""
-startYear = ""
-suffix = ""
+[[menu.icon]]
+    url = "https://github.com/username/"
+    name = "github"
+    weight = 2
 
-[params.settings]
-# date & time format: https://golang.org/pkg/time/
-dateFormat = "2006-01-02"
-listDateFormat = "2006-01-02"
-archiveDateFormat = "Jan 02"
-hideEntryNavigation = ["page"] # boolean / array of sections
-hideEntryMeta = ["page"] # boolean / array of sections
-showReadingTime = true
-showLastmod = true
-taxonomyCloudShuffle = true
-accentColor = "#ffcd00"
-hideMainMenu = false
-rtl = false
+[[menu.icon]]
+    url = "https://twitter.com/username/"
+    name = "twitter"
+    weight = 3
 
-[params.sidebar]
-enable = true
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/username/"
+    name = "linkedin"
+    weight = 4
 
-[params.widgets]
-header = ["breadcrumbs"]
-homepage = ["recent_posts"]
-#sidebar = ["about","search","sidebar_menu","taxonomy_cloud"]
-sidebar = ["about","sidebar_menu","taxonomy_cloud"]
-#footer = ["social_menu"]
-footer = []
-
-[params.opengraph.facebook]
-admins = [] # array of Facebook IDs
-appID = ""
-pageID = ""
-
-[params.opengraph.twitter]
-page = "" # Twitter page username
-
-[params.seo]
-# Title Separator: - – — · • * ⋆ | ~ « » < >
-titleSeparator = "|"
-
-[params.social]
-#codepen = "MunifTanjim"
-email = "contact@example.com"
-#facebook = "MunifTanjim"
-#github = "MunifTanjim"
-#gitlab = "MunifTanjim"
-instagram = "MunifTanjim"
-linkedin = "muniftanjim"
-#twitter = "MunifTanjim"
-#telegram = "MunifTanjim"
-#google_scholar = "qc6CJjYAAAAJ"
-youtube = "UCT-U0rNerYxItGcuoPX-WYA"
-
-[params.comments]
-enable = false
-
-# Isso: https://posativ.org/isso/
-[params.comments.isso]
-enable = false
-scriptSrc = "" # "https://isso.example.com/js/embed.min.js"
-dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
-
-[params.comments.staticman]
-enable = false
-apiEndpoint = "https://api.staticman.net/v2/entry"
-maxDepth = 2
-username = "MunifTanjim"
-repository = "minimo"
-
-# Utterances: https://utteranc.es
-[params.comments.utterances]
-enable = false
-issueTerm = "pathname" # pathname / url / title
-
-[params.comments.utterances.github]
-username = "MunifTanjim"
-repository = "minimo"
-
-[params.search]
-client = "fuse" # algolia / fuse / lunr
-
-[params.search.algolia]
-appId = ""
-indexName = ""
-searchApiKey = ""
-
-[taxonomies]
-author = "authors"
-category = "categories"
-series = "series"
-tag = "tags"
-
-[permalinks]
-page = "/:slug/"
-
-#[[menu.main]]
-#name = "Repo"
-#weight = -10
-#identifier = "repository"
-#url = "https://github.com/MunifTanjim/minimo"
-
-#[blackfriday]
-#hrefTargetBlank = true
-
-[languages]
-# edit this block for your own language
-[languages.en]
-lang = "en"
-languageName = "English"
-weight = 1
-
-
-
-[deployment]
-# By default, files are uploaded in an arbitrary order.
-# Files that match the regular expressions in the "Order" list
-# will be uploaded first, in the listed order.
-#order = [".jpg$", ".gif$"]
-
-
-[[deployment.targets]]
-# An arbitrary name for this target.
-name = "aws"
-# The Go Cloud Development Kit URL to deploy to. Examples:
-# GCS; see https://gocloud.dev/howto/blob/#gcs
-# URL = "gs://<Bucket Name>"
-
-# S3; see https://gocloud.dev/howto/blob/#s3
-# For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
-#URL = "s3://<Bucket Name>?region=<AWS region>"
-URL = "s3://ro.vu/?region=us-east-1"
-
-# Azure Blob Storage; see https://gocloud.dev/howto/blob/#azure
-# URL = "azblob://$web"
-
-# You can use a "prefix=" query parameter to target a subfolder of the bucket:
-# URL = "gs://<Bucket Name>?prefix=a/subfolder/"
-
-# If you are using a CloudFront CDN, deploy will invalidate the cache as needed.
-#cloudFrontDistributionID = <ID>
-cloudFrontDistributionID = "EVSEJV43FG20C"
-
-# Optionally, you can include or exclude specific files.
-# See https://godoc.org/github.com/gobwas/glob#Glob for the glob pattern syntax.
-# If non-empty, the pattern is matched against the local path.
-# All paths are matched against in their filepath.ToSlash form.
-# If exclude is non-empty, and a local or remote file's path matches it, that file is not synced.
-# If include is non-empty, and a local or remote file's path does not match it, that file is not synced.
-# As a result, local files that don't pass the include/exclude filters are not uploaded to remote,
-# and remote files that don't pass the include/exclude filters are not deleted.
-# include = "**.html" # would only include files with ".html" suffix
-# exclude = "**.{jpg, png}" # would exclude files with ".jpg" or ".png" suffix
-
-
-# [[deployment.matchers]] configure behavior for files that match the Pattern.
-# Samples:
-#
-#[[deployment.matchers]]
-##  Cache static assets for 1 year.
-#pattern = "^.+\\.(js|css|svg|ttf)$"
-#cacheControl = "max-age=31536000, no-transform, public"
-#gzip = true
-#
-#[[deployment.matchers]]
-#pattern = "^.+\\.(png|jpg)$"
-#cacheControl = "max-age=31536000, no-transform, public"
-#gzip = false
-#
-#[[deployment.matchers]]
-#pattern = "^.+\\.(html|xml|json)$"
-#gzip = true
-#
-#
-
+[[menu.icon]]
+    url = "https://www.stackoverflow.com/username/"
+    name = "stack-overflow"
+    weight = 5
