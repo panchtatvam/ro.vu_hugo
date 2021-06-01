@@ -1,28 +1,27 @@
 ---
 title: "How this site was built (Technical)"
-date: 2020-04-07
+date: 2021-06-01
 tags : [meta, technology]
 ---
+
+## Goals
+As a content author, I should be able to...
+* Store content as plain text (Markdown)
+* Automatically deploy the site when content is changed
+* Edit content “on the fly” using a mobile device 
+* Edit content locally when internet is not available
 
 ## Overview
 * This site is built by the [Hugo](https://gohugo.io/) static site generator —  Hugo allows an author to write text content in the [Markdown](https://en.wikipedia.org/wiki/Markdown) text format, which are converted into HTML files.
 * The content of the site is stored in [Github](https://github.com/), in a version control system.
 * Amazon [AWS Amplify](https://aws.amazon.com/amplify/) is a service which checks for changes to the content (for example: adding a new blog post to the site, or even fixing a typo). When it detects a new change, the **AWS Amplify** service automatically rebuilds the site (converting Markdown-formatted text into HTML), and then publishes the new/updated files to the public site.
 
-
-
-
 ## Adding & publishing content
-1. Open Finder, browse to directory containing Hugo site
-	* `git clone https://github.com/Helicer/ro.vu_hugo.git`
-1. Drag folder into Sublime text editor for editing
-1. Create new content as a nested Markdown file
-1. Preview the site content by using `hugo server -d` and visiting http://localhost:1313
-1. Verify changes with `git status`
-1. Commit changes with `git commit -a -m "<Commit message>"`
-1. Push changes to Github using `git push -u origin master`
-1. If there are no issues, the AWS Amplify should pick up the changes, rebuild the site, and publish the site
+* Use [Working Copy](https://workingcopyapp.com) to allow an iOS user to connect & push to the GitHub repository. 
+* In the iOS “Files” app, enable the Working Copy file storage location. This allows other apps to edit files which are managed by GitHub. 
+* Use [1Writer](https://1writerapp.com) to add the Working Copy folder to 1Writer.
 
+Once the above is setup, you can add/edit a file in 1Writer, and then push the changes to GitHub using Working Copy. AWS Amplify will then detect a change, and will re-reploy the updated site.
 
 
 ## Creating the site
@@ -32,7 +31,7 @@ Prerequisites:
 * DNS domain name, preferably hosted on AWS Route 53
 
 Assumptions
-* MacOS
+* MacOS & iOS
 * Using Homebrew for package management
 
 ### Install & Configure Hugo
@@ -42,7 +41,6 @@ Resources:
 1.  Download & install Hugo to your computer
 	* `brew install hugo`
 1. Install a theme, and create some content
-	* Using [Minimo theme](https://minimo.netlify.com/) for this site
 
 ### Configure Git & Github
 1. Initialize a Git repository in the Hugo project directory
@@ -58,5 +56,3 @@ Resources:
 Resources:
 * [Guide to hosting Hugo on AWS Amplify](https://gohugo.io/hosting-and-deployment/hosting-on-aws-amplify/)
 * Connect AWS Amplify to Github
-
-TEST
