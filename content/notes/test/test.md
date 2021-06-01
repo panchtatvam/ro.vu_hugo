@@ -5,4 +5,4 @@ tags: [test]
 ---
 
 My image
-![Example image](test.jpeg)
+![Example image](mug.jpeg)
