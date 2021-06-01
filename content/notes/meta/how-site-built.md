@@ -57,5 +57,5 @@ Resources:
 ### Configure AWS Amplify
 Resources:
 * [Guide to hosting Hugo on AWS Amplify](https://gohugo.io/hosting-and-deployment/hosting-on-aws-amplify/)
-1. Connect AWS Amplify to Github
+* Connect AWS Amplify to Github
 
