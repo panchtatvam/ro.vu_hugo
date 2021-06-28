@@ -1,8 +1,13 @@
 ---
-title: "Learnings"
+title: "Life Learnings & Advice to Myself"
 date: 2021-06-01
 tags : [advice]
 ---
+
+## Unsorted
+- I don't need to explain myself. 
+    - How it's received: Insecurity
+    - Instead: State positive goals, intentions
 
 
 
@@ -26,7 +31,13 @@ tags : [advice]
 - Social Validation
 
 
-## Making Decisions
-- [About]({{< ref "decisions" >}} "Decisions")
+## Decisions
+- [Decisions]({{< ref "decisions" >}} "Decisions")
 
-Peop
+
+## Fairness
+- Life is not fair. Never was. Never will be. -TB
+
+## People
+- Everyone has a sign on their forhead which says, "Treat me like I'm special" -Ronnie
+
