@@ -3,6 +3,10 @@ title: "Natural Language Toolkit (NLTK)"
 tags: [technology]
 ---
 
+## Documents & Resources
+- https://www.nltk.org
+
+
 ## Word Frequency Count
 - https://stackoverflow.com/questions/14364762/counting-n-gram-frequency-in-python-nltk
 - https://dariuslfuller.medium.com/creating-visuals-with-nltks-freqdist-ac4e667e49f3

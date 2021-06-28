@@ -62,7 +62,10 @@ When newly remote, it is common to place the burden of connection on your team. 
 
 ## Practice Empathetic Review. 
 Software engineering requires a lot of technical communication. People have different expectations and incentive structures. Good 
-- [Communication]({{< ref "communication" >}} "communication")
+
+{{< ref "communication" >}}
+
+
 
 Communication improves productivity.
 
