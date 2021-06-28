@@ -24,7 +24,7 @@ tags : [advice, life-improvement]
 
 ## Confidence
 ### How to improve confidence
-- [confidence]({{< ref "confidence" >}} "Confidence")
+- [improve self-confidence]({{< ref "improve-self-confidence" >}})
 
 
 ## Depression

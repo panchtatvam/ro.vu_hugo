@@ -11,3 +11,4 @@ tags: [technology]
 
 ### Create a link to a page in markdown
 - [Communication]({{< ref "communication" >}} "communication")
+- [Communication]({{< ref "communication" >}})

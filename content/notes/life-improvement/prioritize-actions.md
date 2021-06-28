@@ -16,7 +16,7 @@ tags: [planning]
         - Examples: _
         - *Action:* Do immediately
     - Not Urgent
-        - Description: Actions which Bring you closert to long term {{< ref "goals" >}}
+        - Description: Actions which Bring you closer to long term goals
         - Examples: 
             - Planning, time with family, exercise
         - *Actions:* 
