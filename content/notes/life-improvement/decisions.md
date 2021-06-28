@@ -41,3 +41,12 @@ tags: [[life-improvement]]
         - Sleep on it. Journal at the beginning & end of a day to catch different moves
         - "Wear the hat" for a day -- Mentally commit to choice for a day, and fully imagine it. Plan it out. Picture the process. Write down all the actions, people, resources invoved. The next day, mentally commit to the other choice. 
     - Emotions: Evaluate your emotions & subconscious honestly. How do you FEEL about the choice and why?
+4. Review
+- Schedule retrospective on calendar.
+    - Event title: "Decision review: <Decision> (YYYY-MM-DD)"
+    - Event Date: Create events for 1 week, 1 month, 1 year
+    - Event Notes: 
+        - Decision Page in {{< ref "journal" >}}
+    
+    
+    
