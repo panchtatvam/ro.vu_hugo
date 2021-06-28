@@ -27,4 +27,4 @@ tags : [advice]
 
 
 ## Making Decisions
-- (Making Decisions)[/decisions.md]
+- [About]({{< ref "decisions" >}} "Decisions")
