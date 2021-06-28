@@ -37,7 +37,7 @@ tags : [advice, life-improvement]
 
 
 ## Decisions
-- [Decisions]({{< ref "decisions" >}} "Decisions")
+- [Make Decisions]({{< ref "make-decisions" >}} "Make Decisions")
 
 
 ## Fairness
