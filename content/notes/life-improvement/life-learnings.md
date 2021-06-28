@@ -22,6 +22,11 @@ tags : [advice, life-improvement]
 - Try on clothes & wear them after purchase
 - In the store, chose 3 items. Find 2 people, tell them goals of the item, ask them to choose.
 
+## Confidence
+### How to improve confidence
+- [confidence]({{< ref "confidence" >}} "Confidence")
+
+
 ## Depression
 - Get quality sleep
 - Eat healthy food

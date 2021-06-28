@@ -1,3 +1,0 @@
----
-Title: Emotions and Feelings
----

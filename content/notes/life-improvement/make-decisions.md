@@ -1,5 +1,5 @@
 ---
-title: Decisions
+title: "How to Make Decisions"
 date: 2021-06-28
 tags: [[life-improvement, planning]]
 ---

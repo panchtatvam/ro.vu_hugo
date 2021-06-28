@@ -62,16 +62,32 @@ When newly remote, it is common to place the burden of connection on your team. 
 
 ## Practice Empathetic Review. 
 Software engineering requires a lot of technical communication. People have different expectations and incentive structures. Good 
+[Communication]({{< ref "communication" >}} "communication") improves productivity.
 
-{{< ref "communication" >}}
+consider cultural differences in communication. Succinct response is common in some communites & culture. 
+
+If a response is defensive, confrontational, or otherwise aggressive
+- Use kindness, ask how you might help. 
+
+
+The quality of communication in an organization comes down to the quality of the individuals' communication within it. 
+
+Introduce yourself yourself, describe the issue or change clearly, and make it easy for the other person to reproduce.
+
+
+Outcomes
+- Set an example which others will follow
+- Feel involved in decision making
 
 
 
-Communication improves productivity.
+## Have Self-Compassion. 
+
+Challenge
+- Even if you define personal goals, establish routines, and do meaningful work. 
 
 
-,2,27 and having good productivity can further make you a better, less adversarial communicator.19 For example, if you encounter a maintainer of a repository seeming curt or mean, you might consider the responsibility on their shoulders to maintain the software, the number of other issues or pull requests they need to review, and that they are working in free time. The maintainer is likely to be in a stressful role. You might also consider cultural differences in communication--it could be that a succinct response is more common in their community or culture. When you take these factors into account, a response that you might have reacted with that is defensive, confrontational, or otherwise aggressive, might be adjusted to have kindness, and further, be productive by asking how you might help. Arguably, the quality of communication on the level of an organization comes down to the quality of the individuals' communication within it. Better communication leads to positive outcomes that range from addressing an issue to solving a problem, or simply feeling involved with decision making.15 No interaction is too small to practice good communication. Practicing empathetic development means introducing yourself, describing the issue or change clearly, and making it easy for the other party to reproduce. By setting an example, you will not only influence the others involved in the work at hand, but also set an example for the immediate community and larger community of software engineers.
-Have Self-Compassion. You can do your best to define personal goals, establish routine, and do meaningful work that feels productive, but this does not always mean that you finish the day and feel that you were successful. This is where self-compassiond and mindfulness4 are important, as they have been shown to have positive impact on mental health and well-being.3 Self-compassion can broadly be defined as being mindful and forgiving to yourself.16 Having self-compassion means looking back on the experience of a day, and not egging yourself for everything that was not perfect. It is just a given that every day will not feel productive. You might try new routines that do not work for you. Instead of thinking negatively, you might consider that establishing your routine, or figuring out a hard problem, is a work in progress, and there is no real state of failure because you wake up and try again. I have found that it helps to try to imagine myself as another person. If someone else approached me with the same experiences and negative thoughts, how would I comfort them? It is very likely that I would react with compassion, and that is the same compassion that I must find for myself. If the source of criticism comes from an external source, although you cannot control other people, you can choose to respond thoughtfully, with kindness, and try to find humor in the situation. However, obviously if someone is in violation of some code of conduct, you should report it, and not absorb it quietly. Thus, self-compassion also means knowing when to stand up for yourself and say something. This advice is especially pertinent for women and other minorities in the work force who might experience subtle inequality or microaggressions.e
+You can do your best to define personal goals, establish routine, and do meaningful work that feels productive, but this does not always mean that you finish the day and feel that you were successful. This is where self-compassiond and mindfulness4 are important, as they have been shown to have positive impact on mental health and well-being.3 Self-compassion can broadly be defined as being mindful and forgiving to yourself.16 Having self-compassion means looking back on the experience of a day, and not egging yourself for everything that was not perfect. It is just a given that every day will not feel productive. You might try new routines that do not work for you. Instead of thinking negatively, you might consider that establishing your routine, or figuring out a hard problem, is a work in progress, and there is no real state of failure because you wake up and try again. I have found that it helps to try to imagine myself as another person. If someone else approached me with the same experiences and negative thoughts, how would I comfort them? It is very likely that I would react with compassion, and that is the same compassion that I must find for myself. If the source of criticism comes from an external source, although you cannot control other people, you can choose to respond thoughtfully, with kindness, and try to find humor in the situation. However, obviously if someone is in violation of some code of conduct, you should report it, and not absorb it quietly. Thus, self-compassion also means knowing when to stand up for yourself and say something. This advice is especially pertinent for women and other minorities in the work force who might experience subtle inequality or microaggressions.e
 
 
 
