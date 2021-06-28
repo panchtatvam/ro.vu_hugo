@@ -47,6 +47,9 @@ tags: [[life-improvement]]
     - Event Date: Create events for 1 week, 1 month, 1 year
     - Event Notes: 
         - Decision Page in {{< ref "journal" >}}
+- Learn
+    - Situation, decision, dates
+    - What did we learn?
     
     
     
