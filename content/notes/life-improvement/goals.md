@@ -1,5 +1,6 @@
 ---
 Title: "Goals"
+tags: [advice, life-improvement, planning]
 ---
 
 ## Wisdom
@@ -45,8 +46,26 @@ Title: "Goals"
     - Description: Which people, when involved, support this behavior & goal
     
 
+## Prioritized Human needs
+https://en.wikipedia.org/wiki/Human_givens
+
+- Security: A sense of safety and security; safe territory; an environment in which people can live without experiencing excessive fear so that they can develop healthily.[9]
+- Autonomy and control: A sense of autonomy and control over what happens around and to us.[10][11]
+- Status: A sense of status - being accepted and valued in the various social groups we belong to.
+- Privacy: Time and space enough to reflect on and consolidate our experiences.
+- Attention: Receiving attention from others, but also giving it; a form of essential nutrition that fuels the development of each individual, family and culture.[12][13][14]
+- Connection to the wider community: Interaction with a larger group of people and a sense of being part of the group.
+- Intimacy: Emotional connection to other people - friendship, love, intimacy, fun.
+- Competence and achievement: A sense of our own competence and achievements, that we have what it takes to meet life's demands.
+- Meaning and purpose: Being stretched, aiming for meaningful goals, having a sense of a higher calling or serving others creates meaning and purpose.
+
+
+
 
 
 ## Resources
-- Atomic Habits
-- Maslows Hierarchy of needs
+- Book: Atomic Habits
+- Prioritized Human Needs
+    - Maslovs Hierarchy of Needs
+    - https://en.wikipedia.org/wiki/Human_givens
+

@@ -1,5 +1,6 @@
 ---
 title: "Prioritization"
+tags: [planning]
 ---
 
 ## Definitions

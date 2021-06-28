@@ -1,7 +1,7 @@
 ---
 title: "Meditation"
 date: 2021-06-01
-tags : [meditation]
+tags : [meditation, life-improvement]
 ---
 
 ## How to Meditate

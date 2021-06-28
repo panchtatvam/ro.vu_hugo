@@ -1,5 +1,6 @@
 ---
 title: Self Image
+tags: [life-improvement]
 ---
 
 ## Links & Resources

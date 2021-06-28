@@ -1,7 +1,7 @@
 ---
 title: Decisions
 date: 2021-06-28
-tags: [[life-improvement]]
+tags: [[life-improvement, planning]]
 ---
 
 ## Considerations

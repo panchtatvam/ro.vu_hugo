@@ -1,5 +1,6 @@
 ---
 Title: "Journal planner"
+tags: [life-improvement, journalling]
 ---
 
 ## Kit

@@ -1,7 +1,7 @@
 ---
 title: "Life Learnings & Advice to Myself"
 date: 2021-06-01
-tags : [advice]
+tags : [advice, life-improvement]
 ---
 
 ## Unsorted
