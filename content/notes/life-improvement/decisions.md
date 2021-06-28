@@ -46,7 +46,7 @@ tags: [[life-improvement]]
     - Event title: "Decision review: <Decision> (YYYY-MM-DD)"
     - Event Date: Create events for 1 week, 1 month, 1 year
     - Event Notes: 
-        - Decision Page in {{< ref "journal" >}}
+        - Decision Page in {{< ref "journal-planner" >}}
 - Learn
     - Situation, decision, dates
     - What did we learn?
