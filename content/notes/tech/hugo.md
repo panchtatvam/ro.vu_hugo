@@ -1,5 +1,6 @@
 ---
 title: "Hugo"
+tags: [technology]
 ---
 
 ## How to link

@@ -1,5 +1,6 @@
 ---
-title: "NLTK"
+title: "Natural Language Toolkit (NLTK)"
+tags: [technology]
 ---
 
 ## Word Frequency Count
