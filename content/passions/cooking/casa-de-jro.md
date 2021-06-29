@@ -9,7 +9,7 @@ tags: [cooking]
 
 ### Coffees
 - *Dirty Chai Latte* - Spiced chai, shot of espresso, oat milk, agave syrup
-    - Inspired by Lazarus in Austin Texas
+    - Inspired by Eva, at Lazarus in Austin Texas
 - *Cappucino* - espresso + oat milk
 - *Americano* - espresso + water
 - *Espresso*
@@ -52,10 +52,18 @@ tags: [cooking]
     - Steel-cut oats, cinnamon, dried fruit (cherries, blueberries, currants), flax & chia seeds, pink salt, olive oil
 - *Toasted "Everything bagel" with scallion cream cheese*
     - Inspired by Astoria NYC bagels; Kat & Em 
+- *Avacado Toast*
+    - Inspired by Jane Hotel, NYC
 
 ### Tacos
 - Egg, onion, cheese, with pico de gallo; served with a spicy guacmole sauce
     - Photo: https://www.instagram.com/p/COx7pxij8tM
+    
+*Breakfast baotzis*
+- Inspired by Guilin, China
+
+*Italian breakfast sandwich*
+    - Mini french bread, prosciutto, cheese, arugala, mustard & spicy mayo
     
 ### Skillet
 - Blueberry Pancakes
@@ -79,12 +87,21 @@ tags: [cooking]
     - Inspired by grandmaman
 - *Blueberry scone*
 - *Cardamom cinamon roll*
+- Pastry with guava filling
+    - Inspired by EAFIT cafe, in Medellin Colombia  
+- *Raspberry pastry*
+    - Inspired by Entenmann's NYC
 
 # Afternoon
 
 ## Soups
 - *Red Lentil*
     - Inspired by Cafe Noi, NYC
+- *Mondongo*
+    - Inspired by Medellin, Colombia
+
+## Salads
+- Uchuva salad
 
 ## Lunch
 - *Vegan chow I* (V)
@@ -118,6 +135,10 @@ tags: [cooking]
 - *Veggie I*. 
     - Green pepper, Red peppers, Onion, Mushrooms, Jalapeno; served with spicy guacamole salsa
 
+
+# Pizza
+- Flammys
+    - Inspired by Alex & Marie
 
 # Evening
 
