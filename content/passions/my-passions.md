@@ -1,0 +1,48 @@
+---
+title: JRO's passions
+---
+
+JRO loves to
+- Cook healthy meals
+- Play pickleball
+- Ride bikes
+- Dance Salsa
+- Dance Texas 2-Step
+- Play Volleyball
+- Play Squash
+- Swim
+- Scuba dive
+- Go Hiking
+- Play with Dogs
+- Do Yoga
+- Play Ping pong
+- Speak Spanish
+- Play Piano
+- Go Kayaking
+- Produce Music
+- Play live music / Jam with friends
+- Help the local community
+- Sing Karaoke
+- Build physical things
+- Oil Paint
+- Go on roadtrips
+- Draw
+- Take photos
+- Make videos
+- Teach technology to kids
+- Explore new music
+- Learn languages
+- Go to live music concerts
+- Journal
+- Write
+- Read
+- Travel the world
+- Fly drones
+- Ride horses
+- Go camping
+- Surf
+- Ski
+- Develop iOS apps (mobile app software development) and build cool stuff on the cloud
+- Create products & businesses (Start-ups / Entrepreneurship)
+- Help business owners achieve their most amnbitious goals (technology consulting)
+
