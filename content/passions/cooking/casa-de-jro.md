@@ -197,6 +197,9 @@ tags: [cooking]
     - Burger, cheese, thai chili; toasted brioche bun
     - Inspired by Dudleys' NYC
 
+- *Marinated skirt steak* - chimcurri; salad with cucumber, mango, goat cheese; served with potato wedges, with a garlic yogurt dipping sauce
+    - inspired by Balaboosta in NYC
+ 
  
 # Refreshing drinks
 - *Cucumber + Mint Agua Fresca*. Cucumber puree, mint, agave syrup
