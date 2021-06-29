@@ -1,3 +1,7 @@
+---
+title: Ideas
+---
+
 - Twitter for cars, @license plates
 - AR for parking places
 - Brunch app (Yelp, open table, Uber)
