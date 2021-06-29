@@ -172,6 +172,9 @@ tags: [cooking]
 - *Halal lamb & chicken over rice*
     - Inspired by NYC halal food trucks
 
+- *Bronte Burger, on a brioche bun*
+    - Burger, cheese, thai chili; toasted brioche bun
+    - Inspired by Dudleys' NYC
 
  
 # Refreshing drinks
