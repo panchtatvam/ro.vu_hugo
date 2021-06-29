@@ -13,6 +13,7 @@ JRO loves to
 - Swim
 - Scuba dive
 - Go Hiking
+- Sailing
 - Play with Dogs
 - Do Yoga
 - Play Ping pong
@@ -29,6 +30,7 @@ JRO loves to
 - Draw
 - Take photos
 - Make videos
+- Visit museums
 - Teach technology to kids
 - Explore new music
 - Learn languages
@@ -41,6 +43,7 @@ JRO loves to
 - Ride horses
 - Go camping
 - Surf
+- Smoke weed
 - Ski
 - Develop iOS apps (mobile app software development) and build cool stuff on the cloud
 - Create products & businesses (Start-ups / Entrepreneurship)

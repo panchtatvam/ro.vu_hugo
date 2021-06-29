@@ -50,18 +50,23 @@ tags: [cooking]
 ### Basics
 - *JRO's Oatmeal*
     - Steel-cut oats, cinnamon, dried fruit (cherries, blueberries, currants), flax & chia seeds, pink salt, olive oil
-    
+- *Toasted "Everything bagel" with scallion cream cheese*
+    - Inspired by Astoria NYC bagels; Kat & Em 
 
 ### Tacos
 - Egg, onion, cheese, with pico de gallo; served with a spicy guacmole sauce
     - Photo: https://www.instagram.com/p/COx7pxij8tM
     
+### Skillet
+- Blueberry Pancakes
 
 ### Eggs
 - *Menemen*
 - *Shakshuka*
     - Inspired by: Cafe Noi NYC & Yael
 - *American breakfast*. Eggs, bacon, toast with jam
+- *The Caroline* - Veggie mash with bacon crumbles, egg on top
+    
 - *Marissa's Breakfast Quiche*
 
 #### Omlettes
@@ -72,7 +77,8 @@ tags: [cooking]
 - *Banana bread*
     - Photo: https://www.instagram.com/p/B7AWikDnQea
     - Inspired by grandmaman
-
+- *Blueberry scone*
+- *Cardamom cinamon roll*
 
 # Afternoon
 
@@ -92,6 +98,16 @@ tags: [cooking]
     - Bacon, lettuce, tomato; mayonaise on 3 slices of toasted bread
     - Photo: https://www.instagram.com/p/CNdQovQnfnM
 - *Bahn mi*
+- *"Bikini" asparagus sandwich*
+    - Inspired by Barcelona
+- Bodega Italian sub
+    - Inspired by NYC delis
+
+## Bowls
+- *Mediterranean bowl*
+    - Couscous, tomato, parsley, cucumber, chickpeas, olive oil
+- Pasta salad
+    - Noodles, red pepper. Feta, Olive Oil
 
 ## Tacos
 - *Al pastor*
@@ -100,7 +116,7 @@ tags: [cooking]
 - *Carne asada*. 
     - Steak, onions, cilantro, lime juice on a flour tortilla
 - *Veggie I*. 
-    - Green peppers, Onion, Mushrooms, with spicy guacamole sauce
+    - Green pepper, Red peppers, Onion, Mushrooms, Jalapeno; served with spicy guacamole salsa
 
 
 # Evening
@@ -116,6 +132,11 @@ tags: [cooking]
 - *Ceviche de Camaron / Coconut shrimp ceviche*
     - Photos: https://www.instagram.com/p/CQZrt-Pj9ta
     - Inspired by La Cevicheria in Cartagena, Colombia
+- *Guacamole*
+    - Inspired by Cascabel in NYC; Kat & Emily
+- *Spicy Wasabi almonds*
+    - Inspired by Denitza
+- *Bruchetta*
 
 
 ## Sides
@@ -123,6 +144,11 @@ tags: [cooking]
     - Broiled Sweet potato, broccoli & rosemary, drizzled with olive oil & sea salt
     - Photo: https://www.instagram.com/p/CNjP_9eDO4w
 
+- *Butternut squash, sweet potato, tomato*
+
+
+## Tapas
+- Sheefra's salmon tapas (TBD)
 
 ## Specials
 
@@ -142,6 +168,9 @@ tags: [cooking]
     - Beef in a sweet dark sauce; served with coconut rice, fried green plantains, guacamole
     - Photo: https://www.instagram.com/p/COx7pxij8tM
     - Inspired by La Santa Clara restaurant in Cartagena, Colombia; La Provincia restaurant in Medellin, Colombia; & Alexis
+
+- *Halal lamb & chicken over rice*
+    - Inspired by NYC halal food trucks
 
 
  
@@ -171,9 +200,15 @@ tags: [cooking]
     - Photo: https://www.instagram.com/p/BP0uPLPFQ6P
     - Inspired by the mojitos at [La Cevicheria](https://lacevicheriacartagena.com/en/) in Cartagena, Colombia
 
+- *Harlem Punch Sangria*
+    - Inspired by Calle Ocho in NYC
 
+- *Colombian Michelada*
+    - Light beer, shot of lime juice, ice, salt rim
+    - Inspired by Cartagena, Colombia
 
-
+- *Raspberry Daiquiri*
+    - Inspired by Lucky Dog, Brooklyn, NYC
 
 
 # Inspiration
