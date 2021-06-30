@@ -12,7 +12,7 @@ tags: [meta]
 - [Communication]({{< ref "communication" >}} "communication")
 
 
-
+### Display all tags
 
 {{range $name, $taxonomy := .Site.Taxonomies.tags}} {{ $cnt := .Count }}
   {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
