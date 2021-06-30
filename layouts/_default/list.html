@@ -4,7 +4,7 @@
 
     <h2>{{ .Title }}</h2>
 
-    {{ range (.Paginator 99).Pages }} {{ partial "list-item" . }} {{ end }}
+    {{ range (.Paginator 1000).Pages }} {{ partial "list-item" . }} {{ end }}
 
 </main>
 
