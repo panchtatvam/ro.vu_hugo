@@ -1,11 +1,22 @@
-DEBUG: Begin _default/list.html
+
 {{ partial "header" . }}
 
 <main>
 
-    DEBUG: Start Title
     <h2>{{ .Title }}</h2> 
-    DEBUG: End title
+
+
+
+-------
+{{ $sections := (.Site.GetPage "section" .Section).Sections }}
+
+DEBUG: BEGIN SECTIONS
+{{ range $sections }}
+DEBUG: IN SECTIONS
+{{ .Title }} 
+{{ end }}
+DEBUG: END SECTIONS:
+--------
 
 
     {{ range (.Paginator 1000).Pages }} {{ partial "list-item" . }} DEBUG: In Paginator {{ end }}
@@ -15,4 +26,3 @@ DEBUG: Begin _default/list.html
 {{ partial "paginator" . }}
 {{ partial "footer" . }}
 
-END: Begin _default/list.html

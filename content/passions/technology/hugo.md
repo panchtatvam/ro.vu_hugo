@@ -16,7 +16,7 @@ tags: [technology]
 ## How to publish site from iPad
 - https://rullmann.ca/posts/2020-09-27-publishing-hugo-static-sites-from-your-ipad/
 
-## How to list nester directories
+## How to list neste directories
 - https://discourse.gohugo.io/t/listing-nested-directories/7198/3
 
 ## Lists of content in templates
