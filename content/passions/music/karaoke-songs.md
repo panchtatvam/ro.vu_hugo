@@ -5,12 +5,16 @@ tags: [karaoke, music, singing]
 
 # Favorites / Solid
 - CCR, bad moon
+    - (-) tough high parts, nasal
 - Gangsters Paradise, Dangerous Minds
 
 
-# Backlog to try
-- Discovery channel, Bloodhound gang
+# Decent
 - [Personal Jesus](https://www.youtube.com/watch?v=u1xrNaTO1bI)
+
+# Backlog to try
+- Bad Touch, Bloodhound gang
+
 
 
 
