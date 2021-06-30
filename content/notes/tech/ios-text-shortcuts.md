@@ -1,4 +1,3 @@
-
-
-xmdl [LINKTEXT]({{< ref "PAGE" >}})  
-- Markdown/Hugo
+---
+title: iOS Text Shortcuts
+---
