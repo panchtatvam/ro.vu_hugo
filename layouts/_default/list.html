@@ -3,7 +3,9 @@ DEBUG: Begin _default/list.html
 
 <main>
 
+    DEBUG: Start Title
     <h2>{{ .Title }}</h2> 
+    DEBUG: End title
 
 
     {{ range (.Paginator 1000).Pages }} {{ partial "list-item" . }} DEBUG: In Paginator {{ end }}
