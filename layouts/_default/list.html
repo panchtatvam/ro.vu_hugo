@@ -1,12 +1,16 @@
+DEBUG: Begin _default/list.html
 {{ partial "header" . }}
 
 <main>
 
-    <h2>{{ .Title }}</h2>
+    <h2>{{ .Title }}</h2> 
 
-    {{ range (.Paginator 1000).Pages }} {{ partial "list-item" . }} {{ end }}
+
+    {{ range (.Paginator 1000).Pages }} {{ partial "list-item" . }} DEBUG: In Paginator {{ end }}
 
 </main>
 
 {{ partial "paginator" . }}
 {{ partial "footer" . }}
+
+END: Begin _default/list.html
