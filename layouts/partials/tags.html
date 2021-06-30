@@ -1,6 +1,3 @@
-
-DEBUG: START tags.html
 {{ range .Params.tags }}
 <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}"><kbd class="item-tag">{{ . }}</kbd></a>
 {{ end }}
-DEBUG: END tags

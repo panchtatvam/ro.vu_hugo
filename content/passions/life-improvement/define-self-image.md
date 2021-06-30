@@ -1,5 +1,5 @@
 ---
-title: Self Image
+title: "Self Image"
 tags: [life-improvement]
 ---
 
