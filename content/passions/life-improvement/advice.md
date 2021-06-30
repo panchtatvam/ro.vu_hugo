@@ -39,7 +39,7 @@ Wear seatbelt in taxi
 Status quo is a silent life killer
 Surround by successful, motivated ppl, stay away from placators
 No debt
-Learn to make friends <3months. Food, sports, common interest groups, classes, etc. Stay on touch!!!
+Learn to make friends < 3 months. Food, sports, common interest groups, classes, etc. Stay on touch!!!
 Learn to cook
 Take video ,ESP w fam
 Persist 

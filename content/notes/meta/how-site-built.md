@@ -56,3 +56,6 @@ Resources:
 Resources:
 * [Guide to hosting Hugo on AWS Amplify](https://gohugo.io/hosting-and-deployment/hosting-on-aws-amplify/)
 * Connect AWS Amplify to Github
+
+# Sandbox pages
+- [sandbox]({{< ref "sandbox" >}}) 
