@@ -5,7 +5,7 @@ description: About this site
 
 
 
-- [LINKTEXT]({{< ref "PAGE" >}})
+- [How this site was built]({{< ref "how-site-built" >}})
 
 
 
