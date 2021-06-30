@@ -1,28 +1,10 @@
-
 {{ partial "header" . }}
 
 <main>
-
     <h2>{{ .Title }}</h2> 
 
-
-
--------
-{{ $sections := (.Site.GetPage "section" .Section).Sections }}
-
-DEBUG: BEGIN SECTIONS
-{{ range $sections }}
-DEBUG: IN SECTIONS
-{{ .Title }} 
-{{ end }}
-DEBUG: END SECTIONS:
---------
-
-
-    {{ range (.Paginator 1000).Pages }} {{ partial "list-item" . }} DEBUG: In Paginator {{ end }}
-
+    {{ range (.Paginator 1000).Pages }} {{ partial "list-item" . }} {{ end }}
 </main>
 
 {{ partial "paginator" . }}
 {{ partial "footer" . }}
-
