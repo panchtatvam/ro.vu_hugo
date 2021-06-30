@@ -90,7 +90,7 @@ Learn language
 
 
 ## Decisions
-- [Make Decisions]({{< ref "make-decisions" >}} "Make Decisions")
+- [Make Decisions]({{< ref "decisions" >}})
 
 
 ## Fairness
