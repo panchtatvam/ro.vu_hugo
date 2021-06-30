@@ -27,26 +27,22 @@ theme = "minimal"
     name = "About"
     weight = 2
 
-[[menu.main]]
-    url = "/notes/"
-    name = "Notes"
-    weight = 3
 
 [[menu.main]]
     url = "/projects/"
     name = "Projects"
-    weight = 4
+    weight = 3
 
 [[menu.main]]
     url = "/passions/"
     name = "Passions"
-    weight = 5
+    weight = 4
 
     
 [[menu.main]]
     url = "/dashboard/"
     name = "JRO Dashboard"
-    weight = 6
+    weight = 5
     
 # "Disable" pagination
 # TODO: Disable pagination in template

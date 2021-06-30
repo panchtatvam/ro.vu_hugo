@@ -18,3 +18,6 @@ tags: [technology]
 
 ## How to list nester directories
 - https://discourse.gohugo.io/t/listing-nested-directories/7198/3
+
+## Lists of content in templates
+https://gohugo.io/templates/lists/
