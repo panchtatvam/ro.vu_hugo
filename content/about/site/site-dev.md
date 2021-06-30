@@ -3,7 +3,20 @@ title: "Site Development Resources"
 ---
 
 # TODO
-- 
+- Tree of all pages, grouped by folder hierarchy
+- About me page
+- Homepage - List of passions?
+- Left align content
+- Projects metadata
+- Passions page should list out all passions / topics
+- Email button should go to contact page
+- Alerts when build fails
+- List all pages with no tags
+- List all pages with no content
+- Travel, videos
+- Opinions, essays
+
+
 
 
 
