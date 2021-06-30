@@ -1,5 +1,5 @@
 ---
-title: How to...
+title: "How to..."
 tags: [howto]
 ---
 

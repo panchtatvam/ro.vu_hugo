@@ -1,5 +1,5 @@
 ---
-title: Yiddish words
+title: "Yiddish words"
 ---
 
 Meshuggana - crazy

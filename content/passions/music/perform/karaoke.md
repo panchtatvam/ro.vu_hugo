@@ -1,3 +1,3 @@
 ---
-title: Sing Karaoke
+title: "Sing Karaoke"
 ---

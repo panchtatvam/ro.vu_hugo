@@ -1,5 +1,5 @@
 ---
-Title: Affirmations
+Title: "Affirmations"
 tags: [life-improvement]
 ---
 

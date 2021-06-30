@@ -1,6 +1,6 @@
-
-
-Journal Templates & Ideas
+---
+title: Journal Templates & Ideas
+---
 
 
 Date - Time - Location

@@ -1,5 +1,5 @@
 ---
-title: Cliff & Nick's Steak Recipe
+title: "Cliff & Nick's Steak Recipe"
 tags: [cooking, recipe]
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Ideas
+title: "Ideas"
 ---
 
 - Twitter for cars, @license plates

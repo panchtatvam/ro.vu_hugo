@@ -1,5 +1,5 @@
 ---
-title: Scuba
+title: "Scuba Diving"
 ---
 
 # Locations

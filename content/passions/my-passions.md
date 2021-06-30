@@ -1,5 +1,5 @@
 ---
-title: JRO's passions
+title: "JRO's passions"
 ---
 
 JRO loves to

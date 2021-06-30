@@ -1,5 +1,5 @@
 ---
-title: Squash
+title: "Squash"
 ---
 
 # Stretches before playing

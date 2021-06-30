@@ -1,5 +1,5 @@
 ---
-title: Camping
+title: "Camping"
 ---
 
 # Texas

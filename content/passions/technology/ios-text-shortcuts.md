@@ -1,3 +1,3 @@
 ---
-title: iOS Text Shortcuts
+title: "iOS Text Shortcuts"
 ---

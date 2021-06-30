@@ -1,5 +1,5 @@
 ---
-Title: Taylan Exercise Routine
+Title: "Taylan Exercise Routine"
 ---
 
 # Plan

@@ -1,5 +1,5 @@
 ---
-title: Videography
+title: "Videography"
 ---
 
 # GoPro checklist

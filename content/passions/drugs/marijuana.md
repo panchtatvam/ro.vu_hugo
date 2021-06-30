@@ -1,5 +1,5 @@
 ---
-title: Marijuana
+title: "Marijuana"
 tags: [drugs]
 ---
 

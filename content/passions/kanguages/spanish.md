@@ -1,3 +1,3 @@
 ---
-title: Spanish
+title: "Spanish"
 ---

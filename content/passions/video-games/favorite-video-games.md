@@ -1,3 +1,6 @@
+---
+title: "Favorite Video Games"
+---
 
 # Shooters
 - Battlefield 1942

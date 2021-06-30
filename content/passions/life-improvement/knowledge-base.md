@@ -1,6 +1,6 @@
 ---
-title: Personal Knowledge Base
-tags: [[life-improvement]]
+title: "Personal Knowledge Base"
+tags: [life-improvement]
 ---
 
 ## Links & Resources

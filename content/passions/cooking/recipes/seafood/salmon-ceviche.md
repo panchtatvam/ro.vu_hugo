@@ -1,5 +1,5 @@
 ---
-title: Salmon Ceviche (v21.6)
+title: "Salmon Ceviche (v21.6)"
 tags: [cooking, recipes]
 ---
 

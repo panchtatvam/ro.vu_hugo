@@ -1,5 +1,5 @@
 ---
-Title: "How to Define Personal Goals"
+title: "How to Define Personal Goals"
 tags: [advice, life-improvement, planning]
 ---
 

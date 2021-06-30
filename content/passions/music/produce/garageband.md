@@ -1,3 +1,4 @@
 ---
-title: Garageband
+title: "Garageband"
+tags: [music]
 ---

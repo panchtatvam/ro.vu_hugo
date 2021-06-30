@@ -1,5 +1,5 @@
 ---
-title: Karaoke songs
+title: "Karaoke songs"
 tags: [karaoke, music, singing]
 ---
 

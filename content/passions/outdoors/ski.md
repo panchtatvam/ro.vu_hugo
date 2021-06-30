@@ -1,5 +1,5 @@
 ---
-title: Ski
+title: "Ski"
 ---
 
 # USA

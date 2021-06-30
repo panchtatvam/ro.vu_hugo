@@ -1,3 +1,8 @@
+---
+title: Listening
+tags: [life-improvement]
+---
+
 https://hbr.org/1957/09/listening-to-people
 
 

@@ -1,3 +1,3 @@
 ---
-title: Yoga
+title: "Yoga"
 ---

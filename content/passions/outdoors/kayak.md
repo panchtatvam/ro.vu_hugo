@@ -1,5 +1,5 @@
 ---
-title: Kayak
+title: "Kayaking"
 ---
 
 # Austin Texas

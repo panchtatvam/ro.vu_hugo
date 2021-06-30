@@ -1,5 +1,5 @@
 ---
-title: Hike
+title: "Hiking"
 ---
 
 # USA

@@ -1,3 +1,7 @@
+---
+title: "Breakups"
+---
+
 Stressing out like this is worse thank smoking, drinking, or drugs
 
 You might find the girl of your dreams. You might not. Both options are better than being with someone you know is NOT.

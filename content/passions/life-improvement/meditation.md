@@ -1,6 +1,5 @@
 ---
 title: "How to Meditate"
-date: 2021-06-01
 tags : [meditation, life-improvement]
 ---
 

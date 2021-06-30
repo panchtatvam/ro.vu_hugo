@@ -1,5 +1,5 @@
 ---
-title: Product Vision
+title: "Product Vision"
 ---
 
 ## Articles

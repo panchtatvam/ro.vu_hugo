@@ -1,5 +1,5 @@
 ---
-title: Running
+title: "Running"
 ---
 
 # Spartan Race

@@ -1,5 +1,5 @@
 ---
-title: Aunt Cathy's Spaghetti Sauce
+title: "Aunt Cathy's Spaghetti Sauce"
 tags: [cooking, recipe]
 ---
 

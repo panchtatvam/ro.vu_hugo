@@ -1,4 +1,8 @@
-TRAVEL -  Trips ideas / wishlist
+---
+title: "Trips ideas / wishlist"
+---
+
+
 
 
 Valencia spain

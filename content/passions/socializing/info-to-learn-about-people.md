@@ -1,5 +1,5 @@
 ---
-title: Information to Learn about People
+title: "Information to Learn about People"
 ---
 
 - Birthdays

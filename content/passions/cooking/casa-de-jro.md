@@ -1,5 +1,5 @@
 ---
-title: Menu | Casa de JRO
+title: "Menu | Casa de JRO"
 tags: [cooking]
 ---
 

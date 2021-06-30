@@ -1,4 +1,6 @@
-Travel Checklist (2020)
+---
+title: "Travel Checklist"
+---
 
 booking trip
 - put in calendar + ticket info

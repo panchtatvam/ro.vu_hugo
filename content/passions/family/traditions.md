@@ -1,5 +1,5 @@
 ---
-advice: Family Traditions
+advice: "Family Traditions"
 ---
 
 # Wisdom

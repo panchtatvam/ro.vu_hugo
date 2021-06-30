@@ -1,5 +1,5 @@
 ---
-title: Chili
+title: "Chili"
 ---
 
 # Reference

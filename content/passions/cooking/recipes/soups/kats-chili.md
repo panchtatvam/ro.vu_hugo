@@ -1,5 +1,5 @@
 ---
-title: Kat's 3-bean Shredded Chicken Chili
+title: "Kat's 3-bean Shredded Chicken Chili"
 ---
 
 # Ingredients

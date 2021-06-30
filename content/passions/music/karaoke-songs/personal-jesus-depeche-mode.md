@@ -1,5 +1,5 @@
 ---
-title: Personal Jesus - Depeche Mode
+title: "Personal Jesus - Depeche Mode"
 tags: [karaoke, music]
 ---
 

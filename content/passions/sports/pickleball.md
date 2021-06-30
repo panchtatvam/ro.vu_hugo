@@ -1,3 +1,3 @@
 ---
-title: Pickleball
+title: "Pickleball"
 ---

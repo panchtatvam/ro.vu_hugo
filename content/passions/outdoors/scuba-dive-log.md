@@ -1,5 +1,5 @@
 ---
-title: Scuba Dive
+title: "Scuba Dive Log"
 ---
 
 # Locations I have dived

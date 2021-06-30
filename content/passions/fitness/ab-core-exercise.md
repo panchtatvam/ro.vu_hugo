@@ -1,5 +1,5 @@
 ---
-title: Ab/Core Exercises
+title: "Ab/Core Exercises"
 ---
 
 1. Dragon Flags - full or ankle weighted
