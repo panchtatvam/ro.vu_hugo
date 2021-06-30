@@ -40,7 +40,7 @@ theme = "minimal"
 
     
 [[menu.main]]
-    url = "{{< ref "dash" >}}"    
+    url = "/dash/"    
     name = "JRO Dashboard"
     weight = 5
     
