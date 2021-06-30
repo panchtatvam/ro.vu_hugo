@@ -9,3 +9,6 @@ title: Site Development Resources
 
 ### Configure Webhooks
 - https://github.com/Helicer/ro.vu_hugo/settings/hooks
+
+## Theme
+- https://github.com/calintat/minimal/tree/master/layouts
