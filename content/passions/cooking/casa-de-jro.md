@@ -49,7 +49,7 @@ tags: [cooking]
 
 ### Basics
 - *JRO's Oatmeal*
-    - Steel-cut oats, cinnamon, dried fruit (cherries, blueberries, currants), flax & chia seeds, pink salt, olive oil
+    - Steel-cut instant oats, cinnamon, dried fruit (cherries, blueberries, currants), flax & chia seeds, pink salt, olive oil
 - *Toasted "Everything bagel" with scallion cream cheese*
     - Inspired by Astoria NYC bagels; Kat & Em 
 - *Avacado Toast*
@@ -169,7 +169,8 @@ tags: [cooking]
 
 
 ## Tapas
-- Sheefra's salmon tapas (TBD)
+- *Sheefra's salmon tapas*
+    - 
 
 ## Specials
 
