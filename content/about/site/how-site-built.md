@@ -57,5 +57,19 @@ Resources:
 * [Guide to hosting Hugo on AWS Amplify](https://gohugo.io/hosting-and-deployment/hosting-on-aws-amplify/)
 * Connect AWS Amplify to Github
 
+
+Go to Amplify console home
+- https://console.aws.amazon.com/amplify/home?region=us-east-1&code=a7ff92a322ed3c5cdb99#/
+
+Click New App > Host Web APp
+
+From existing code: Click GitHub
+
+Connec to repository
+
+
+
+
+
 # Sandbox pages
 - [sandbox]({{< ref "sandbox" >}}) 

@@ -21,3 +21,14 @@ tags: [technology]
 
 ## Lists of content in templates
 https://gohugo.io/templates/lists/
+
+
+## Section page templates
+- https://gohugo.io/templates/section-templates/
+
+## Tags
+- https://gohugo.io/templates/taxonomy-templates/
+
+
+## Pagination
+- https://gohugo.io/templates/pagination/
