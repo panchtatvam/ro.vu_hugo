@@ -23,7 +23,7 @@ theme = "minimal"
     weight = 1
 
 [[menu.main]]
-    url = "/about/"
+    url = {{< ref "about" >}}
     name = "About"
     weight = 2
 
