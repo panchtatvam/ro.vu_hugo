@@ -9,10 +9,16 @@ tags: [cooking]
 
 ### Coffees
 - *Dirty Chai Latte* - Spiced chai, shot of espresso, oat milk, agave syrup
-    - Inspired by Eva, at Lazarus in Austin Texas
+    - Inspired by Eva at Lazarus in Austin Texas
 - *Cappucino* - espresso + oat milk
+    - Inspired by Alon at Cafe Noi, NYC
+- *Tumeric coconut-milk latte*
+    - Inspired by morning walks with CHW in Central Park, NYC
+- *Red-eye* - Black coffee with a shot of espresso
+    - Inspired by Daniel at Cafe Noi, NYC
 - *Americano* - espresso + water
 - *Espresso*
+    - Inspired by espresso mornings at Zibetto Espresso Bar with Lydia
 - *Thai Iced Coffee*
     - Inspired by Up Thai NYC
 
@@ -21,16 +27,20 @@ tags: [cooking]
 - Red berry
 - Camomile
 - Orange spice
+    - Inspired by Bigelow Constant Comment, in Edwardsville, Illinois
 - Mint
 - Fennel
+    - Inspired by Sheefra, in Austin Texas
 - Earl Grey
+    - Inspired by Jean-Luc Picard on NCC-1701-D
 - English Breakfast
 
 
 ### Fresh Juices
 
-- Freshly squeezed orange juice
-- Freshly squeezed grapefruit juice
+- Freshly squeezed *orange juice*
+    - Inspired by Stu in Colombia
+- Freshly squeezed *grapefruit juice*
 - Mimosa. fresh juice with prosecco
 
 ### Smoothies
@@ -49,33 +59,44 @@ tags: [cooking]
 
 ### Basics
 - *JRO's Oatmeal*
-    - Steel-cut instant oats, cinnamon, dried fruit (cherries, blueberries, currants), flax & chia seeds, pink salt, olive oil
+    - Steel-cut oats, cinnamon, dried fruit (cherries, blueberries, currants), flax & chia seeds, pink salt, olive oil
 - *Toasted "Everything bagel" with scallion cream cheese*
     - Inspired by Astoria NYC bagels; Kat & Em 
 - *Avacado Toast*
     - Inspired by Jane Hotel, NYC
 
+
+### Asian    
+- *Breakfast baotzis*
+-   Inspired by Guilin, China
+
+
+### Sandwiches
+- *Italian breakfast sandwich*
+    - Mini french bread, prosciutto, cheese, arugala, mustard & spicy mayo
+
+### Skillet
+- Blueberry Pancakes
+
+
 ### Tacos
 - Egg, onion, cheese, with pico de gallo; served with a spicy guacmole sauce
     - Photo: https://www.instagram.com/p/COx7pxij8tM
     
-*Breakfast baotzis*
-- Inspired by Guilin, China
-
-*Italian breakfast sandwich*
-    - Mini french bread, prosciutto, cheese, arugala, mustard & spicy mayo
-    
-### Skillet
-- Blueberry Pancakes
 
 ### Eggs
 - *Menemen*
 - *Shakshuka*
     - Inspired by: Cafe Noi NYC & Yael
 - *American breakfast*. Eggs, bacon, toast with jam
+- *Classic British breakfast*
+    - Inspired by Taylan
 - *The Caroline* - Veggie mash with bacon crumbles, egg on top
-    
 - *Marissa's Breakfast Quiche*
+
+
+
+
 
 #### Omlettes
 - spinach, mushroom, onion, goat cheese
@@ -92,6 +113,7 @@ tags: [cooking]
 - *Raspberry pastry*
     - Inspired by Entenmann's NYC
 
+
 # Afternoon
 
 ## Soups
@@ -99,9 +121,13 @@ tags: [cooking]
     - Inspired by Cafe Noi, NYC
 - *Mondongo*
     - Inspired by Medellin, Colombia
-
+    
+    
 ## Salads
-- Uchuva salad
+- *Uchuva salad*
+- *Spinach Salad* - Baby spinach, cranberries, candied pecans, pears and feta cheese with a
+lemon-basil vinaigrette dressing.
+     - Inspired by Gruppo, East village NYC
 
 ## Lunch
 - *Vegan chow I* (V)
@@ -115,16 +141,17 @@ tags: [cooking]
     - Bacon, lettuce, tomato; mayonaise on 3 slices of toasted bread
     - Photo: https://www.instagram.com/p/CNdQovQnfnM
 - *Bahn mi*
-- *"Bikini" asparagus sandwich*
-    - Inspired by Barcelona
-- Bodega Italian sub
-    - Inspired by NYC delis
+    - Inspired by Flatiron NYC; trip to Hội An, Vietnam with S&M
+- *Italian Mealoaf Panini*
+    - Carmalized onions, tomato pesto, 'Merican cheese, lawless spicy mayo
+    - Inspired by Il Bambino, Astoria NYC
 
 ## Bowls
 - *Mediterranean bowl*
     - Couscous, tomato, parsley, cucumber, chickpeas, olive oil
 - Pasta salad
     - Noodles, red pepper. Feta, Olive Oil
+
 
 ## Tacos
 - *Al pastor*
@@ -133,14 +160,19 @@ tags: [cooking]
 - *Carne asada*. 
     - Steak, onions, cilantro, lime juice on a flour tortilla
 - *Veggie I*. 
-    - Green pepper, Red peppers, Onion, Mushrooms, Jalapeno; served with spicy guacamole salsa
+    - Green peppers, Onion, Mushrooms, with spicy guacamole sauce
 
 
-# Pizza
-- Flammys
-    - Inspired by Alex & Marie
+
+
+
+
+
+
+
 
 # Evening
+
 
 
 ## Starters
@@ -158,19 +190,42 @@ tags: [cooking]
 - *Spicy Wasabi almonds*
     - Inspired by Denitza
 - *Bruchetta*
+- *Gruppo's Garlic Cheese bread*
+    - Inspired by Gruppos in East Village NYC
+
+
 
 
 ## Sides
 - *Vegan chow II*
     - Broiled Sweet potato, broccoli & rosemary, drizzled with olive oil & sea salt
     - Photo: https://www.instagram.com/p/CNjP_9eDO4w
-
 - *Butternut squash, sweet potato, tomato*
 
 
+
+
+## Pizzas & Flammys
+### Pizzas
+
+- *Formaggio Bianco*
+    - 4 cheese base (Mozzarella, Parmesan, Pecorino, Ricotta) with bechamel and
+fresh arugula.
+    - Inspired by Gruppo, NYC
+- "LAN Party"
+    - Pepperoni & pineapple, with a garlic-dusted crust
+- *Parma*
+    - Marinara sauce and cheese, prosciutto crisps, farm fresh millionaire bacon,
+fresh arugula, green apples and balsamic reduction.
+    - Inspired by Gruppo, NYC
+
+### Flammies
+- Alsace-style thin crust, Sauteed onions, bacon, & honey atop creme fraiche 
+    
 ## Tapas
 - *Sheefra's salmon tapas*
-    - 
+
+
 
 ## Specials
 
@@ -200,7 +255,18 @@ tags: [cooking]
 
 - *Marinated skirt steak* - chimcurri; salad with cucumber, mango, goat cheese; served with potato wedges, with a garlic yogurt dipping sauce
     - inspired by Balaboosta in NYC
- 
+
+
+
+
+
+
+
+
+
+    
+
+
  
 # Refreshing drinks
 - *Cucumber + Mint Agua Fresca*. Cucumber puree, mint, agave syrup
@@ -208,6 +274,8 @@ tags: [cooking]
  
 # Alcoholic drinks
 
+
+## Cocktails
 - *Habenero Passionfruit Margarita*
     - Inspired by Vero, in NYC
     
@@ -228,6 +296,12 @@ tags: [cooking]
     - Photo: https://www.instagram.com/p/BP0uPLPFQ6P
     - Inspired by the mojitos at [La Cevicheria](https://lacevicheriacartagena.com/en/) in Cartagena, Colombia
 
+- *Bandera*
+    - Inspired by the colors of the Mexican flag, this drink is served in 3 separate shot glasses consisting of tequila (white), fresh lime juice (green), and sangrita (red)-a spicy tomato-based chaser.
+    
+- **Mezcal, orange slices + sal de gusano* (for the daring)
+    - salt ground with the dried caterpillars that live in agaves
+
 - *Harlem Punch Sangria*
     - Inspired by Calle Ocho in NYC
 
@@ -237,6 +311,50 @@ tags: [cooking]
 
 - *Raspberry Daiquiri*
     - Inspired by Lucky Dog, Brooklyn, NYC
+
+
+
+## Wines
+
+- Decoy
+    - Inspired by Raki
+
+
+### Reds
+
+#### Malbec
+- Don David
+    - Inspired by Jose
+
+#### Pinot Noir
+"La reina de las uvas"
+
+#### Tempranillo
+
+#### Crianza
+
+### Rose
+Inspired by Alexis
+
+
+
+
+## Booze
+- Woodford Reserve
+    - Inspired by Stu, during the NYC days
+- Johnny Walker Blue
+    - Inspired by Ira in NY
+- Macallan 12
+    - Inspired by Boone, in Atlanta
+- *Xicaru silver mezcal*
+    - Unaged mezcal made with agave Espadin
+    - Xicaru is the Zapotec word for beautiful. This name reflects mezcalero Fernando Santibañez’s desire to share his artistic creations. Using his grandmother’s recipe, Fernando makes small batches of Xicaru Mezcal at his palenque in Matatlán, Oaxaca. Its natural smoky flavor is derived by cooking the agave in a conical stone oven on mesquite and ocote, woods native to Oaxaca. 
+
+- *Sotol*
+    - Sotol is a distilled spirit from wild-harvested sotol plants in Driftwood, Texas
+
+
+
 
 
 # Inspiration
