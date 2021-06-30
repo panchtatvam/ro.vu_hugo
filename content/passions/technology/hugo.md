@@ -32,3 +32,9 @@ https://gohugo.io/templates/lists/
 
 ## Pagination
 - https://gohugo.io/templates/pagination/
+
+
+# Titles
+- Use double-quotes on titles (YAML)
+
+
