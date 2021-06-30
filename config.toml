@@ -33,9 +33,21 @@ theme = "minimal"
     weight = 3
 
 [[menu.main]]
-    url = "/project/"
+    url = "/projects/"
     name = "Projects"
     weight = 4
+
+[[menu.main]]
+    url = "/passions/"
+    name = "Passions"
+    weight = 5
+
+    
+[[menu.main]]
+    url = "/dashboard/"
+    name = "JRO Dashboard"
+    weight = 6
+    
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
