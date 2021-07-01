@@ -258,6 +258,10 @@ fresh arugula, green apples and balsamic reduction.
 
 
 
+## Indian
+- *Chana Masala (chickpeas)*
+- *Palak 'Paneer' (tofu)*
+- *Masoor (yellow) Dal*
 
 
 
