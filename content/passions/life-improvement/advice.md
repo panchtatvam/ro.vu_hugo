@@ -6,6 +6,7 @@ tags : [advice, life-improvement]
 
 # Links & Resources
 - https://www.lesswrong.com/posts/HJeD6XbMGEfcrx3mD/100-ways-to-live-better
+- https://news.ycombinator.com/item?id=25513713#25516108 - Things you're allowed to do
 
 ## Unsorted
 - I don't need to explain myself. 
