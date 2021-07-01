@@ -4,6 +4,9 @@ date: 2021-06-01
 tags : [advice, life-improvement]
 ---
 
+# Links & Resources
+- https://www.lesswrong.com/posts/HJeD6XbMGEfcrx3mD/100-ways-to-live-better
+
 ## Unsorted
 - I don't need to explain myself. 
     - How it's received: Insecurity

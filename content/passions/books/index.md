@@ -30,18 +30,25 @@ TBD
 # Recommended to JRO
 Book (Recommender, Date)
 
+
+
+
+- For those i loved - Martin gray
+    - SCW: "best life story i've ever read - ups and downs - survival, thriving, everything in between"
+- Long walk to freedom - Nelson mandela
+    - SCW: "a remarkable man who stuck to his convictions and stepped into greatness"
 - [Doors of Perception](https://en.wikipedia.org/wiki/The_Doors_of_Perception), Aldous Huxley
     - Raki
 - An introduction to Buddhism, Dalai Lama
     - Raki  
 - Homo sapiens
-    - Saygin
+    - Saygin: "Tells the story of human history and how we have evolved from an ape in a philosophical and deeply researched, investigative manner."
 - Siddharta
-    - Sagyin
+    - Sagyin: "The life Buddha and how he became the wise soul"
 - Awaken the giant within -Tony robbins
-    - Saygin
+    - Saygin: "An awareness that the power is within - to create the most valuable life"
 - The forty rules of love -Elif Shafak
-    - Saygin: "About the life of rumi"
+    - Saygin: "Rumi's life as if you're there with him - feeling his love and suffering and what he's been through"
 - Don Quixote
     - Stu: "the humor and self-awareness feels like a contemporary novel but it was written hundreds of years ago. Uses humor and absurdity to comment on life’s pursuits"
 - Unbearable lightness of being (that ones fresher in mind)

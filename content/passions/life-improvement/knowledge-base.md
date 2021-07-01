@@ -8,3 +8,4 @@ tags: [life-improvement]
 
 ## Examples
 - https://joelhooks.com
+- https://braindump.jethro.dev/
