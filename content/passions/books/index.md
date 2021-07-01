@@ -78,7 +78,7 @@ Book (Recommender, Date)
     - Meli, 2021
 - Artists Way
     - Paulina, 2021
-- Fighting for your MArriage
+- Fighting for your Marriage
     - Karen D, 2020
 - Of Love and Other Demons
     - Karen G
