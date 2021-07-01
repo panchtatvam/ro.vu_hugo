@@ -34,6 +34,14 @@ Book (Recommender, Date)
     - Raki
 - An introduction to Buddhism, Dalai Lama
     - Raki  
+- Homo sapiens
+    - Saygin
+- Siddharta
+    - Sagyin
+- Awaken the giant within -Tony robbins
+    - Saygin
+- The forty rules of love -Elif Shafak
+    - Saygin: "About the life of rumi"
 - Don Quixote
     - Stu: "the humor and self-awareness feels like a contemporary novel but it was written hundreds of years ago. Uses humor and absurdity to comment on life’s pursuits"
 - Unbearable lightness of being (that ones fresher in mind)
