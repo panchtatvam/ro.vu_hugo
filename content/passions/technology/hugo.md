@@ -19,8 +19,13 @@ https://gohugo.io/templates/lists/
 ## Directory structure
 https://gohugo.io/getting-started/directory-structure/
 
+
+
+
+
 # Include images in post (WIP)
 https://liatas.com/posts/escaping-hugo-shortcodes/
+https://discourse.gohugo.io/t/page-bundle-image-references/10750
     <!-- Images --> 
     {{/* with .Resources.ByType "image" */}}
 	<div class="Image">
@@ -29,6 +34,9 @@ https://liatas.com/posts/escaping-hugo-shortcodes/
 	{{/* end */}}
 	</div>
 
+## Page resources
+https://gohugo.io/content-management/page-resources/
+https://www.regisphilibert.com/blog/2018/01/hugo-page-resources-and-how-to-use-them/
 
 ## Pagination
 - https://gohugo.io/templates/pagination/
