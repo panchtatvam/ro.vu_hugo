@@ -6,7 +6,7 @@ tags: [cooking, recipe]
 
 # Ingredients
 - Steak
-- Italian dressing
+- Cheap italian salad dressing
 - Worchester
 - Cheap, shitty beer
 
