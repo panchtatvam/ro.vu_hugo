@@ -3,25 +3,36 @@ Action / Why
 
 
 # Essential
-Groceries
+
 
 # Would feel great to have done at end of weeok
-Setup Shopify Site
+Windshield wiper - Safety
+Pick up meds @ Vet
+Groceries
+
 Pay sheefra
-Cook indian meal
 Schedule dog playdate
-
-
+Setup Shopify Site
+Schedule haircut
+Select Hugo dev
 
 # Todo
-Business Card - Reinforce passions, amplify good expressions
-Saygin Fiver
+Write video process
 
+
+
+
+Decide on a video project
 Hire Video editor - For business videos, free up time; express moments in an artistic way
+Business Card - Reinforce passions, amplify good expressions
 
-Pick up meds @ Vet
+Q Indian recipe
+Cook indian meal
 
-Windshield wiper - Safety
+
+# Later
+
+
 Gas 
 
 Salsa Combo video - Teach self, teach others
@@ -40,5 +51,3 @@ W piano to KB
 Q Iowaska, yahe, chakruna, sheefra
 W chackras
 Q On the wave
-
-
