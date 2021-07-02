@@ -75,7 +75,7 @@ Homo Sapiens
 - Saygin: "Tells the story of human history and how we have evolved from an ape in a philosophical and deeply researched, investigative manner."
 
 Ishmael by Daniel Quinn
-- Sheefra
+- Sheefra: "Most impactful book on my life. Shows how we got to be this way."
  
 Long Walk to Freedom -Nelson mandela
 - SCW: "A remarkable man who stuck to his convictions and stepped into greatness."
@@ -159,13 +159,14 @@ Unbearable Lightness of Being
 - Stu: "Impeccable job at breaking down a guy’s different relationships, and capturing the "we’ve all thought that" type of inner monologues. Quick read."
 
 Way of the Peaceful Warrior -Dan Milkman. 
-- Sheefra
+- Sheefra: "Puts you into the flow state, that magic state, letting it unfold."
 
 What I Talk about When I Talk about Running: A Memoir -Haruki Murakami (audio book version)
 - Fern: "A meditation on preparation and quiet dedication."
 
 Where the Crawdads sing 
-- Sheefra
+- Sheefra: "Yummy amazing book. Coming of age. Murder mystery, its fun. Puts you into what what it would be like to live on the land.
+
 
 Wine Simple
 - Kruck
