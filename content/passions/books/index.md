@@ -3,23 +3,6 @@ title: "Books"
 ---
 
 
-# JRO's book recommendations
-TBD
-
-
-
-
-# JRO's "To Read" Queue
-TBD
-
-
-
-# JRO read & enjoyed
-
-
-
-
-
 
 # Books Recommended to Me by People I Admire
 
@@ -193,8 +176,19 @@ World War Z
 Zen and the Art of Motorcycle Maintenance
 - JPR
 
-# JRO's bookshelf
 
+
+
+# JRO's Book Recommendations
+(Stay tuned)
+
+
+# JRO's "To Read" Queue
+(Stay tuned)
+
+
+# JRO's Bookshelf
+(Stay tuned)
 
 TODO: 
 - Group by genre
