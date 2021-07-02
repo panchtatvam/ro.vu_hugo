@@ -33,7 +33,7 @@ An Introduction to Buddhism, Dalai Lama
 Artists Way
 - Paulina
 
-Awaken the Giant Within -Tony robbins
+Awaken the Giant Within -Tony Robbins
 - Saygin: "An awareness that the power is within - to create the most valuable life."
 
 
