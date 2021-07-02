@@ -38,3 +38,12 @@ https://gohugo.io/templates/lists/
 - Use double-quotes on titles (YAML)
 
 
+# Include images in poss (WIP)
+    <!-- Images --> 
+    {{/* with .Resources.ByType "image" */}}
+	<div class="Image">
+	{{/* range . */}}
+		<img src="{{/* .RelPermalink */}}">
+	{{/* end */}}
+	</div>
+
