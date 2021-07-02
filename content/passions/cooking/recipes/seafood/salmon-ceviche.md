@@ -24,4 +24,7 @@ tags: [cooking, recipes]
 - With the citrus juicer, juice the limes
 - Using knife, cut salmon into 1/2" cubes
 - Sprinkle salt on the salmon
-- Put
+- Put the salmon in the juice (15 min)
+- Cut up rest of ingredients
+- Put ingredients into the juice
+- Serve
