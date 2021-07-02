@@ -7,7 +7,7 @@ title: "Books"
 # Books Recommended to Me by People I Admire
 
 A Canticle for Leibowitz
-    - Stu
+- Stu
 
 An Introduction to Buddhism, Dalai Lama
 - Raki: "Seeking spiritual path to figure out my purpose of existence."
@@ -116,7 +116,6 @@ Social Engineering. The Science of Human Hacking
 
 Still Life with Woodpecker
 - JPR
-- DRU
 
 The Ages of Globalization -Jeffrey Sachs
 - Kama: "Provides so much context and foundation for understanding what is happening in our world. It’s history, but the narratives he provides and threads he weaves together are next level. I gravitate to the macro, so this was especially nerd boner inducing for me." (LOL Kama -JRO)
