@@ -3,24 +3,42 @@ title: "Hugo"
 tags: [technology]
 ---
 
-## How to cross-link pages
+## Cross-link pages
 - https://gohugo.io/content-management/cross-references/
 
-### Print a page's path
-{{< ref "communication" >}}
-
-### Create a link to a page in markdown
+## Create a link to a page in markdown
 - [Communication]({{< ref "communication" >}} "communication")
 - [Communication]({{< ref "communication" >}})
 
-## How to publish site from iPad
-- https://rullmann.ca/posts/2020-09-27-publishing-hugo-static-sites-from-your-ipad/
-
-## How to list neste directories
+## List nested directories
 - https://discourse.gohugo.io/t/listing-nested-directories/7198/3
 
 ## Lists of content in templates
 https://gohugo.io/templates/lists/
+
+## Directory structure
+https://gohugo.io/getting-started/directory-structure/
+
+# Include images in post (WIP)
+https://liatas.com/posts/escaping-hugo-shortcodes/
+    <!-- Images --> 
+    {{/* with .Resources.ByType "image" */}}
+	<div class="Image">
+	{{/* range . */}}
+		<img src="{{/* .RelPermalink */}}">
+	{{/* end */}}
+	</div>
+
+
+## Pagination
+- https://gohugo.io/templates/pagination/
+
+## Print a page's path
+{{< ref "communication" >}}
+
+
+## Publish site from iPad
+- https://rullmann.ca/posts/2020-09-27-publishing-hugo-static-sites-from-your-ipad/
 
 
 ## Section page templates
@@ -30,20 +48,7 @@ https://gohugo.io/templates/lists/
 - https://gohugo.io/templates/taxonomy-templates/
 
 
-## Pagination
-- https://gohugo.io/templates/pagination/
-
-
 # Titles
 - Use double-quotes on titles (YAML)
 
-
-# Include images in poss (WIP)
-    <!-- Images --> 
-    {{/* with .Resources.ByType "image" */}}
-	<div class="Image">
-	{{/* range . */}}
-		<img src="{{/* .RelPermalink */}}">
-	{{/* end */}}
-	</div>
 
