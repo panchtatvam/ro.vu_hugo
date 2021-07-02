@@ -32,147 +32,148 @@ TBD...
 
 # Books Recommended to Me by People I Admire
 "Subtle Art of not Giving a F" -Mark Manson
-    - DRU
+- DRU
+
 "Everything is F’d" - Mark manson
-    - DRU:  "Book about hope"
+- DRU:  "Book about hope"
 
 
 What I Talk about When I Talk about Running: A Memoir -Haruki Murakami (audio book version)
-    - Fern: "A meditation on preparation and quiet dedication."
+- Fern: "A meditation on preparation and quiet dedication."
 
 Gentleman in Moscow -Amor Towles (audio version)   
-    - Fern: "The main character handles problems with grace - like a gentleman."
+- Fern: "The main character handles problems with grace - like a gentleman."
 
 The Bodhi Tree Grows in L.A.: Tales of a Buddhist Monk in America -Bhante Walpola Piyananda
-    - Fern: "Short story life lessons"
+- Fern: "Short story life lessons"
 
 Zen and the Art of Motorcycle Maintenance
-    - JPR
+- JPR
 
 Still Life with Woodpecker
-    - JPR
+- JPR
 
 The Magus
-    - JPR
+- JPR
 
 One is The World -Richard Haass. 
-    - Brad C: "An explanation of the world in a thoughtful, comprehensive and accessible way."
+- Brad C: "An explanation of the world in a thoughtful, comprehensive and accessible way."
 
 Ishmael by Daniel Quinn
-    - Sheefra
+- Sheefra
 
 The Four Agreements by Don Miguel Ruiz
-    - Sheefra
-    - DRU
+- Sheefra
+- DRU
 
 Way of the Peaceful Warrior -Dan Milkman. 
-    - Sheefra
+- Sheefra
 
 Where the Crawdads sing 
-    - Sheefra
+- Sheefra
 
 The Ages of Globalization -Jeffrey Sachs. 
-    - Kama: "Provides so much context and foundation for understanding what is happening in our world. It’s history, but the narratives he provides and threads he weaves together are next level. I gravitate to the macro, so this was especially nerd boner inducing for me." (LOL Kama -JRO)
+- Kama: "Provides so much context and foundation for understanding what is happening in our world. It’s history, but the narratives he provides and threads he weaves together are next level. I gravitate to the macro, so this was especially nerd boner inducing for me." (LOL Kama -JRO)
 
 World War Z
-    - Kama: "I have watched the movie a thousand times and finally picked up the book. It is a collection of recollections on which the movie is based. Fantastic shit, and if you still think you’re having a bad day after, you weren’t paying attention."
+- Kama: "I have watched the movie a thousand times and finally picked up the book. It is a collection of recollections on which the movie is based. Fantastic shit, and if you still think you’re having a bad day after, you weren’t paying attention."
     
 Good Omens by Gaiman and Pratchett
-    - Kama: Just delightful in every conceivable way.
+- Kama: Just delightful in every conceivable way.
         
 Decameron by Boccaccio. 
-    - Kama: "You would never guess it was written in the 1300’s. The plague section is gruesome, and the stories hold up brilliantly. That’s my fave from the Classics bin."
+- Kama: "You would never guess it was written in the 1300’s. The plague section is gruesome, and the stories hold up brilliantly. That’s my fave from the Classics bin."
 
 Predictably Irrational
-    - Daniella: "I love behavioral economics and this is such a fascinating non-fiction read. I blew through it and I think about it to this day."
+- Daniella: "I love behavioral economics and this is such a fascinating non-fiction read. I blew through it and I think about it to this day."
 
 High Performance Habits
-    - Daniella: "I listened to this for the first time on audiotape last year and I think about this one line a lot ‘if you leave your growth to randomness you’re destined for mediocrity""
+- Daniella: "I listened to this for the first time on audiotape last year and I think about this one line a lot ‘if you leave your growth to randomness you’re destined for mediocrity""
 
 The Fran Lebowitz Reader
-    - Daniella: "If I’m on a desert island I think I’d want a laugh. This one made me laugh aloud"
+- Daniella: "If I’m on a desert island I think I’d want a laugh. This one made me laugh aloud"
 
 For Those I Loved -Martin gray
-    - SCW: "Best life story i've ever read - ups and downs - survival, thriving, everything in between."
+- SCW: "Best life story i've ever read - ups and downs - survival, thriving, everything in between."
 
 Long Walk to Freedom -Nelson mandela
-    - SCW: "A remarkable man who stuck to his convictions and stepped into greatness."
+- SCW: "A remarkable man who stuck to his convictions and stepped into greatness."
 
 [Doors of Perception](https://en.wikipedia.org/wiki/The_Doors_of_Perception) -Aldous Huxley
-    - Raki: "I want to experiment, study, and see how our mind/brain works"
+- Raki: "I want to experiment, study, and see how our mind/brain works"
 
 An introduction to Buddhism, Dalai Lama
-    - Raki: "Seeking spiritual path to figure out my purpose of existence."
+- Raki: "Seeking spiritual path to figure out my purpose of existence."
 
 Homo Sapiens
-    - Saygin: "Tells the story of human history and how we have evolved from an ape in a philosophical and deeply researched, investigative manner."
+- Saygin: "Tells the story of human history and how we have evolved from an ape in a philosophical and deeply researched, investigative manner."
 
 Siddharta
-    - Sagyin: "The life Buddha and how he became the wise soul."
-    - Andrew R: "Huge impact on me in terms of accepting moments in life, and trying to reach personal nirvana."
+- Sagyin: "The life Buddha and how he became the wise soul."
+- Andrew R: "Huge impact on me in terms of accepting moments in life, and trying to reach personal nirvana."
 
 Awaken the giant within -Tony robbins
-    - Saygin: "An awareness that the power is within - to create the most valuable life"
+- Saygin: "An awareness that the power is within - to create the most valuable life"
 
 The Forty Rules of Love -Elif Shafak
-    - Saygin: "Rumi's life as if you're there with him - feeling his love and suffering and what he's been through"
+- Saygin: "Rumi's life as if you're there with him - feeling his love and suffering and what he's been through"
 
 Don Quixote
-    - Stu: "The humor and self-awareness feels like a contemporary novel but it was written hundreds of years ago. Uses humor and absurdity to comment on life’s pursuits."
+- Stu: "The humor and self-awareness feels like a contemporary novel but it was written hundreds of years ago. Uses humor and absurdity to comment on life’s pursuits."
 
 Unbearable Lightness of Being
-    - Stu: "Impeccable job at breaking down a guy’s different relationships, and capturing the "we’ve all thought that" type of inner monologues. Quick read."
+- Stu: "Impeccable job at breaking down a guy’s different relationships, and capturing the "we’ve all thought that" type of inner monologues. Quick read."
 
 Brothers Karamazov
-    - Stu: "Enjoyable, dense and heavy. It has everything you need to know in life."
+- Stu: "Enjoyable, dense and heavy. It has everything you need to know in life."
 
 Wine Simple
-    - Kruck
+- Kruck
 
 Social Engineering. The Science of Human Hacking
-    - Cliff
+- Cliff
 
 Mass Pursuasion Method
-    - Cliff
+- Cliff
 
 The Innovators Spirit
-    - Paul G
+- Paul G
 
 - Sapiens
-    - SCW
+- SCW
     
 Body Keeps the Score
-    - Meli
+- Meli
     
 Artists Way
-    - Paulina
+- Paulina
 
 Fighting for your Marriage
-    - Karen D
+- Karen D
 
 Of Love and Other Demons
-    - Karen G
+- Karen G
 
 Gene Keys
-    - -Ash
+- Ash
 
 [The Continuum Concept: In Search Of Happiness Lost](https://www.amazon.com/Continuum-Concept-Happiness-Classics-Development/dp/0201050714)
-    - -Sheefra
+- Sheefra
 
 [The Celestine Prophecy: An Adventure](https://www.amazon.com/Celestine-Prophecy-Adventure-James-Redfield/dp/0446671002)
-    - Ash
+- Ash
 
 [The Hive](https://www.amazon.com/Hive-Barry-Lyga/dp/1525300601)
-    - Ash ?
+- Ash ?
 
 Marcus Aurelius
-    - Dad
+- Dad
 
 Radical Acceptance
-    - JB
+- JB
 
- Hooked
-    - Cliff
+Hooked
+- Cliff
     
 # JRO's bookshelf
 
