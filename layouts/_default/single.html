@@ -1,0 +1,25 @@
+{{ partial "header" . }}
+
+<main>
+
+    <div>
+        <h2>{{ .Title }}</h2>
+        <h5>{{ .Description }}</h5>
+        {{ partial "tags" . }}
+    </div>
+    DEBUG: Using _default/Single.htm
+    <div align="start" class="content">{{ .Content }}</div>
+
+    
+    DEBUG: Testing images:
+    
+    {{ with .Resources.ByType "image" }}
+	<div class="Image">
+	{{ range . }}
+		<img src="{{ .RelPermalink }}">
+	{{ end }}
+	</div>
+{{ end }}
+</main>
+
+{{ partial "footer" . }}
