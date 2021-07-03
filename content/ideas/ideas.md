@@ -4,6 +4,7 @@ title: "Ideas"
 
 - Find a way to connect a slack, forum, and knowledge base (Cliff)
 - How to click a button, chat with AI, in an app (Cliff)
+- Technology calendar - weekly, monthly, etc (Cliff)
 - Twitter for cars, @license plates
 - AR for parking places
 - Brunch app (Yelp, open table, Uber)
