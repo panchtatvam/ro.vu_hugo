@@ -41,7 +41,7 @@ Health
 Technology
 ==========
 * The Visible Ops Handbook: Implementing ITIL in 4 Practical and Auditable Steps
-2-Scoops of Django
+* 2-Scoops of Django
 
 War
 ===
