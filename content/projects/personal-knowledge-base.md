@@ -13,6 +13,7 @@ title: Personal Knowledge Base
 
 ## Reader / Visitor to the site
 - As a reader, the site should look great on my phone
+- As a reader, I should be able to SEARCH for note (title, content)
 
 
 # Types of content in the site
