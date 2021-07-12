@@ -1,7 +1,7 @@
 baseURL = "https://staging-rovu.netlify.app"
 languageCode = "en-us"
 title = "RO.VU"
-theme = "minimal"
+theme = "PaperMod"
 #disqusShortname = "username" # delete this to disable disqus comments
 #googleAnalytics = ""
 
