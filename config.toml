@@ -2,6 +2,7 @@ baseURL = "https://staging-rovu.netlify.app"
 languageCode = "en-us"
 title = "RO.VU"
 theme = "PaperMod"
+# enables adding date even if no date is set manually based on git commits
 enableGitInfo = true
 #disqusShortname = "username" # delete this to disable disqus comments
 #googleAnalytics = ""
@@ -21,7 +22,7 @@ enableGitInfo = true
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
   expiryDate = ["expiryDate"]
-  lastmod = [":git", "lastmod", "date", "publishDate"]
+  lastmod = ["lastmod", ":git", "date", "publishDate"]
   publishDate = ["publishDate", "date"]
 
 [[menu.main]]
