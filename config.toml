@@ -2,6 +2,7 @@ baseURL = "https://staging-rovu.netlify.app"
 languageCode = "en-us"
 title = "RO.VU"
 theme = "PaperMod"
+enableGitInfo = true
 #disqusShortname = "username" # delete this to disable disqus comments
 #googleAnalytics = ""
 
@@ -16,6 +17,12 @@ theme = "PaperMod"
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["python", "java"]
+
+[frontmatter]
+  date = ["date", "publishDate", "lastmod"]
+  expiryDate = ["expiryDate"]
+  lastmod = [":git", "lastmod", "date", "publishDate"]
+  publishDate = ["publishDate", "date"]
 
 [[menu.main]]
     url = "/"
