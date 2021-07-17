@@ -15,20 +15,20 @@ minify:
     minifyOutput: true
 
 frontmatter:
-  date:
-  - date
-  - publishDate
-  - lastmod
-  expiryDate:
-  - expiryDate
-  lastmod:
-  - :git
-  - lastmod
-  - date
-  - publishDate
-  publishDate:
-  - publishDate
-  - date
+    date:
+      - date
+      - publishDate
+      - lastmod
+    expiryDate:
+      - expiryDate
+    lastmod:
+      - :git
+      - lastmod
+      - date
+      - publishDate
+    publishDate:
+      - publishDate
+      - date
 
 params:
     env: "production" # to enable google analytics, opengraph, twitter-cards and schema.
