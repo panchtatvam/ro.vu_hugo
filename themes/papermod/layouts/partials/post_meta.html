@@ -1,5 +1,5 @@
 {{- $scratch := newScratch}}
-
+{{ .Lastmod }}<br/>
 {{- if not .Date.IsZero -}}
 {{- $scratch.Add "meta" (slice (.Date.Format (default "January 2, 2006" .Site.Params.DateFormat))) }}
 {{ else }}
