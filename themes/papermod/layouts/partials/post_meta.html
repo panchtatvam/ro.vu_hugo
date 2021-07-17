@@ -1,8 +1,9 @@
 {{- $scratch := newScratch}}
-{{ .Lastmod }}<br/>
+
 {{- if not .Date.IsZero -}}
 {{- $scratch.Add "meta" (slice (.Date.Format (default "January 2, 2006" .Site.Params.DateFormat))) }}
 {{ else }}
+{{/* vyom: 210717 lastmod detail is added to any file that has no date manually added to it. Lastmod is specified by the git push.*/}}
 {{- $scratch.Add "meta" (slice (.Lastmod.Format (default "January 2, 2006" .Site.Params.DateFormat))) }}
 {{- end -}}
 
