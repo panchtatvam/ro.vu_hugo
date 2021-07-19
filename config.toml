@@ -79,11 +79,16 @@ enableRobotsTXT= true
       minMatchCharLength = 0
       keys = ["title", "permalink", "summary", "content"]
 
+# vyom: 210719 for lastmod automatic date generation
 [frontmatter]
   date = ["date", "publishDate", "lastmod"]
   expiryDate = ["expiryDate"]
   lastmod = [":git", "lastmod", "date", "publishDate"]
   publishDate = ["publishDate", "date"]
+
+# fusejs implementation
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
 [[menu.main]]
     url = "/"
@@ -135,5 +140,4 @@ paginate = 99
 #    url = "https://www.linkedin.com/in/username/"
 #    name = "linkedin"
 #    weight = 4
-
 
