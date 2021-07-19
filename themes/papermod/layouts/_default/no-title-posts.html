@@ -1,0 +1,53 @@
+{{- define "main" }}
+
+{{- if (and .Site.Params.profileMode.enabled .IsHome) }}
+{{- partial "index_profile.html" . }}
+{{- else }} {{/* if not profileMode */}}
+
+
+{{- if not .IsHome | and .Title }}
+<header class="page-header">
+  {{- partial "breadcrumbs.html" . }}
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">
+    {{ .Description }}
+  </div>
+  {{- end }}
+</header>
+{{- end }}
+
+{{- $pages := $.Site.RegularPages }}
+
+{{ $term := .Data.Term}}
+{{- range $index, $page := $pages }}
+{{ if eq .Title "" }}
+
+{{- $class := "post-entry" }}
+
+<article class="{{ $class }}">
+  {{- $isHidden := (.Site.Params.cover.hidden | default .Site.Params.cover.hiddenInList)}}
+  {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+  <header class="entry-header">
+    <h2>
+      {{ .Title }}
+      {{- if .Draft }}<div class="entry-isdraft"><sup>&nbsp;&nbsp;[draft]</sup></div>{{- end }}
+    </h2>
+  </header>
+  {{- if (ne (.Param "hideSummary") true)}}
+  <section class="entry-content">
+    <p>{{ .Summary | plainify | htmlUnescape }}{{- if .Truncated }}...{{- end -}}</p>
+  </section>
+  {{- end }}
+  {{- if not (.Param "hideMeta") }}
+  <footer class="entry-footer">
+    {{- partial "post_meta.html" . -}}
+  </footer>
+  {{- end }}
+  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+</article>
+{{- end }} {{/* end if */}}
+{{- end }} {{/* end range */}}
+
+{{end}}{{/* end if */}}
+{{- end }}{{- /* end main */ -}}
