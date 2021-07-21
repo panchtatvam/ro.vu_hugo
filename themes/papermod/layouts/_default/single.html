@@ -19,6 +19,16 @@
       {{- partial "edit_post.html" . -}}
     </div>
     {{- end}}
+    {{/* vyom:210721 placed tags below title */}}
+    <div style="margin-top: 10px;">
+      {{- if .Params.tags }}
+      <ul class="post-tags">
+        {{- range ($.GetTerms "tags") }}
+        <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+        {{- end }}
+      </ul>
+      {{- end }}
+    </div>
   </header>
   {{- $isHidden := .Params.cover.hidden | default .Site.Params.cover.hiddenInSingle | default .Site.Params.cover.hidden}}
   {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
@@ -38,13 +48,7 @@
     {{- partial "anchored_headings.html" .Content -}}
   </div>
   <footer class="post-footer">
-    {{- if .Params.tags }}
-    <ul class="post-tags">
-      {{- range ($.GetTerms "tags") }}
-      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
-      {{- end }}
-    </ul>
-    {{- end }}
+    
     {{- if (.Param "ShowPostNavLinks") }}
     {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
     {{- if and (gt (len $pages) 1) (in $pages . ) }}
