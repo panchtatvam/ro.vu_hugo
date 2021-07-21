@@ -91,11 +91,6 @@ enableRobotsTXT= true
   home = ["HTML", "RSS", "JSON"]
 
 [[menu.main]]
-    url = "/"
-    name = "Home"
-    weight = 1
-
-[[menu.main]]
     url = "/about/"
     name = "About"
     weight = 2
