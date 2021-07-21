@@ -19,6 +19,7 @@ enableRobotsTXT= true
     description = "Notes and info"
     githubUsername = "#"
     DateFormat = "January 2, 2006"
+    postDateFormat = "2006-01-02"
     defaultTheme = "auto" # dark, light
     disableThemeToggle = false
     accent = "#47536e"
