@@ -66,7 +66,7 @@ enableRobotsTXT= true
       hiddenInSingle = true # hide on single page
     [params.editPost]
       URL = "https://github.com/jrovu/ro.vu_hugo/tree/master/content"
-      Text = "Suggest Changes" # edit text
+      Text = "Edit this post" # vyom:210707 updated text
       appendFilePath = true # to append file path to Edit link
     # for search
     # https://fusejs.io/api/options.html
