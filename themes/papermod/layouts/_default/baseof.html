@@ -13,7 +13,8 @@
 {{- print " dark" }}
 {{- end -}}
 " id="top">
-    {{- partialCached "header.html" . .Page}}
+    {{/* vyom:210707 header now shows on all pages */}}
+    {{- partialCached "header.html" . }}
     <main class="main">
         {{- block "main" . }}
         {{- end }}
