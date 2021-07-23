@@ -68,7 +68,7 @@ enableRobotsTXT= true
       hiddenInList = true # hide on list pages and home
       hiddenInSingle = true # hide on single page
     [params.editPost]
-      URL = "https://github.com/panchtatvam/ro.vu_hugo/tree/staging/content"
+      URL = "https://github.com/jrovu/ro.vu_hugo/tree/master/content"
       Text = "Edit this post" # vyom:210707 updated text
       appendFilePath = true # to append file path to Edit link
     # for search
