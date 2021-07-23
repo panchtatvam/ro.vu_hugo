@@ -21,7 +21,15 @@
 
 {{ $term := .Data.Term}}
 {{- range $index, $page := $pages }}
-{{- if not .Params.tags }}
+
+{{/* vyom:210723 Checks if tags exist or if empty tags are there */}}
+{{- $vyomTagsScratch := newScratch }}
+{{- $vyomTagsScratch.Set "lengthOfTags" 0 }}
+{{- if .Params.tags }}
+  {{- $lengthOfTags := index .Params.tags 0 | len }}
+  {{ $vyomTagsScratch.Set "lengthOfTags" $lengthOfTags }}
+{{ end }}
+{{- if or (not .Params.tags) (eq ($vyomTagsScratch.Get "lengthOfTags") 0) }}
 
 {{- $class := "post-entry" }}
 
