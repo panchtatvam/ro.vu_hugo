@@ -17,7 +17,7 @@
 </header>
 {{- end }}
 
-{{- $pages := $.Site.RegularPages.ByLastmod }}
+{{- $pages := $.Site.RegularPages }}
 
 {{ $term := .Data.Term}}
 {{- range $index, $page := $pages }}
