@@ -41,6 +41,8 @@ enableRobotsTXT= true
     hideSummary = false
     showtoc = false
     tocope = false
+    # vyom:210723 for /archives page. Sections added here will be shown in the page given that posts have date set
+    mainSections = ["how-to","ideas","journal-planner","notes","passions","politics","principles","products","projects"]
     # home-info mode
     [params.homeInfoParams]
       Title = "Hi there \U0001F44B"
