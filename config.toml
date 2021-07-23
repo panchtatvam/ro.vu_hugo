@@ -1,4 +1,4 @@
-baseURL = "https://staging-rovu.netlify.app"
+baseURL = "https://master-rovu.netlify.app"
 languageCode = "en-us"
 title = "RO.VU"
 theme = "papermod"
