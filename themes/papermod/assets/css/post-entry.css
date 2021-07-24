@@ -3,6 +3,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    /* vyom: 210724 reduced unwanted space */
     /* min-height: 320px; */
     margin: var(--gap) 0 calc(var(--gap) * 2) 0
 }
