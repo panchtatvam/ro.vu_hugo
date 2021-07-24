@@ -1,0 +1,33 @@
+{{- $scratch := newScratch}}
+
+{{/* vyom:210721 vyom:210721 UX for user to know more about the post */}}
+{{- $scratch.Add "last_updated" (slice "Last updated:") }}
+{{- if not .Date.IsZero -}}
+{{- $scratch.Add "last_updated" (slice (.Date.Format (default "January 2, 2006" .Site.Params.postDateFormat))) }}
+{{ else }}
+{{/* vyom: 210717 lastmod detail is added to any file that has no date manually added to it. Lastmod is specified by the git push.*/}}
+{{- $scratch.Add "last_updated" (slice (.Lastmod.Format (default "January 2, 2006" .Site.Params.postDateFormat))) }}
+{{- end -}}
+{{/* vyom:210721 vyom:210721 UX for user to know more about the post */}}
+{{- $scratch.Add "last_updated" (slice "by") }}
+
+{{ with (partial "author.html" . ) }}
+{{ $scratch.Add "last_updated" (slice .)}}
+{{end}}
+
+{{- with ($scratch.Get "last_updated")}}
+{{- delimit . "&nbsp;"}}
+{{- end }}
+
+{{/* vyom:210721 vyom:210721 UX for user to know more about the post */}}
+<br/>
+{{- if (.Param "ShowReadingTime") -}}
+{{- $scratch.Add "reading_time" (slice "Estimated read time:")}}
+{{- $scratch.Add "reading_time" (slice (i18n "read_time" .ReadingTime | default (printf "%s min" .ReadingTime))) }}
+{{- end -}}
+
+{{/* vyom:210721 vyom:210721 UX for user to know more about the post */}}
+{{- with ($scratch.Get "reading_time")}}
+{{- delimit . "&nbsp;"}}
+{{- end }}
+

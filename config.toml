@@ -1,14 +1,27 @@
-baseURL = "https://ro.vu/"
+baseURL = "https://ro.vu"
 languageCode = "en-us"
 title = "RO.VU"
-theme = "minimal"
+theme = "papermod"
+# enables adding date even if no date is set manually based on git commits
+enableGitInfo = true
+enableRobotsTXT= true
 #disqusShortname = "username" # delete this to disable disqus comments
 #googleAnalytics = ""
 
+[minify]
+    disableXML = true
+    minifyOutput = true
+
 [params]
+    env = "production"
+    title = "RO.VU"
     author = "JRO"
     description = "Notes and info"
     githubUsername = "#"
+    DateFormat = "January 2, 2006"
+    postDateFormat = "2006-01-02"
+    defaultTheme = "auto" # dark, light
+    disableThemeToggle = false
     accent = "#47536e"
     showBorder = false
     backgroundColor = "#fff"
@@ -16,11 +29,69 @@ theme = "minimal"
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["python", "java"]
+    ShowReadingTime = true
+    ShowShareButtons = true
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = false
+    disableSpecial1stPost = false
+    disableScrollToTop = false
+    comments = false
+    hidemeta = false
+    hideSummary = false
+    showtoc = false
+    tocope = false
+    # vyom:210723 for /archives page. Sections added here will be shown in the page given that posts have date set
+    mainSections = ["how-to","ideas","journal-planner","notes","passions","politics","principles","products","projects"]
+    # home-info mode
+    [params.homeInfoParams]
+      Title = "Hi there \U0001F44B"
+      Content = "Welcome to my blog"
+    [[params.socialIcons]]
+      name = "twitter"
+      url = "https://twitter.com/"
+    [[params.socialIcons]]
+      name = "stackoverflow"
+      url = "https://stackoverflow.com"
+    [[params.socialIcons]]
+      name = "github"
+      url = "https://github.com/"
+    [params.analytics]
+      [params.analytics.google]
+        SiteVerificationTag = "XYZabc"
+      [params.analytics.bing]
+        SiteVerificationTag = "XYZabc"
+      [params.analytics.yandex]
+        SiteVerificationTag = "XYZabc"
+    [params.cover]
+      hidden = true # hide everywhere but not in structured data
+      hiddenInList = true # hide on list pages and home
+      hiddenInSingle = true # hide on single page
+    [params.editPost]
+      URL = "https://github.com/jrovu/ro.vu_hugo/tree/master/content"
+      Text = "Edit this post" # vyom:210707 updated text
+      appendFilePath = true # to append file path to Edit link
+    # for search
+    # https://fusejs.io/api/options.html
+    [params.fuseOpts]
+      isCaseSensitive = false
+      shouldSort = true
+      location = 0
+      distance = 1000
+      threshold = 0.4
+      minMatchCharLength = 0
+      keys = ["title", "permalink", "summary", "content"]
 
-[[menu.main]]
-    url = "/"
-    name = "Home"
-    weight = 1
+# vyom: 210719 for lastmod automatic date generation
+[frontmatter]
+  date = ["date", "publishDate", "lastmod"]
+  expiryDate = ["expiryDate"]
+  lastmod = [":git", "lastmod", "date", "publishDate"]
+  publishDate = ["publishDate", "date"]
+
+# fusejs implementation
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
 [[menu.main]]
     url = "/about/"
@@ -43,6 +114,11 @@ theme = "minimal"
     url = "/dash/"    
     name = "JRO Dashboard"
     weight = 5
+
+[[menu.main]]
+    url = "/search"    
+    name = "Search"
+    weight = 6
     
 # "Disable" pagination
 # TODO: Disable pagination in template
@@ -62,5 +138,4 @@ paginate = 99
 #    url = "https://www.linkedin.com/in/username/"
 #    name = "linkedin"
 #    weight = 4
-
 
