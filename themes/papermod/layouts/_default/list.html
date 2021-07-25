@@ -18,6 +18,7 @@
 {{- end }}
 
 {{/* vyom:210725 List nested sections. Thanks to Guayo Mena via https://github.com/guayom/hugo-nested-sections */}}
+{{ if not .IsHome }}
 {{ with .Sections }}
 <ul class="terms-tags">
   {{ range . }}
@@ -26,6 +27,7 @@
     </li>
   {{ end }}
 </ul>
+{{ end }}
 {{ end }}
 
 {{- $pages := .RegularPages  }}
