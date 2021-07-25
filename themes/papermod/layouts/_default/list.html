@@ -17,7 +17,18 @@
 </header>
 {{- end }}
 
-{{- $pages := union .RegularPages .Sections }}
+{{/* vyom:210725 List nested sections. Thanks to Guayo Mena via https://github.com/guayom/hugo-nested-sections */}}
+{{ with .Sections }}
+<ul class="terms-tags">
+  {{ range . }}
+    <li>
+        <a href="{{ .Permalink }}">{{ .Title }}  </a>
+    </li>
+  {{ end }}
+</ul>
+{{ end }}
+
+{{- $pages := .RegularPages  }}
 
 {{- if .IsHome }}
 {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
