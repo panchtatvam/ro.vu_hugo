@@ -17,7 +17,20 @@
 </header>
 {{- end }}
 
-{{- $pages := union .RegularPages .Sections }}
+{{/* vyom:210725 List nested sections. Thanks to Guayo Mena via https://github.com/guayom/hugo-nested-sections */}}
+{{ if not .IsHome }}
+{{ with .Sections }}
+<ul class="terms-tags">
+  {{ range . }}
+    <li>
+        <a href="{{ .Permalink }}">{{ .Title }}  </a>
+    </li>
+  {{ end }}
+</ul>
+{{ end }}
+{{ end }}
+
+{{- $pages := .RegularPages  }}
 
 {{- if .IsHome }}
 {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
@@ -27,6 +40,15 @@
 
 {{- if and .IsHome .Site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
 {{- partial "home_info.html" . }}
+{{/* vyom:210725 Added tag list to homepage */}}
+<ul class="terms-tags">
+  <li><a href="/no-tags-posts">No tags</a></li>
+  {{ range $name, $taxonomy:= .Site.Taxonomies.tags }}
+        <li>
+            <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }} </a>
+        </li>
+  {{ end }}
+</ul>
 {{- end }}
 
 {{ $term := .Data.Term}}

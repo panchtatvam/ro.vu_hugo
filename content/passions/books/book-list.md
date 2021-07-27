@@ -1,9 +1,6 @@
 ---
 title: "Books"
 ---
-
-
-
 # Books Recommended to Me by People I Admire
 
 A Canticle for Leibowitz
