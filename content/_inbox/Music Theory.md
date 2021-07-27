@@ -1,4 +1,7 @@
-
+---
+title: "Structure of a Song"
+tags: [music]
+---
 
 ## Song structure
 https://www.fender.com/articles/play/parts-of-a-song-keep-it-straight
