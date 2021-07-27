@@ -1,12 +1,7 @@
-:title: 7 Habits of Highly Effective People
-:tags: books, productivity
-
-
-The Seven Habits of Highly Effective People
-###########################################
-
-Quick list
-==========
+---
+title: "7 Habits of Highly Effective People"
+tags: [books, life-improvement]
+---
 
 * **Be proactive** — Take action and be responsible
 * **Begin with an end in mind** — Consciously plan out and visualize your actions
