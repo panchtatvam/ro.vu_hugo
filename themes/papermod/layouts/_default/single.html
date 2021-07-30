@@ -73,7 +73,10 @@
     {{- end }}
     {{- end }}
     {{- if (and .Site.Params.ShowShareButtons (ne .Params.disableShare true) ) }}
-    {{- partial "share_icons.html" . }}
+    {{/*
+      vyom:210730 remove share icons #41
+      {{- partial "share_icons.html" . }}
+    */}}
     {{- end }}
   </footer>
 
