@@ -94,31 +94,19 @@ enableRobotsTXT= true
   home = ["HTML", "RSS", "JSON"]
 
 [[menu.main]]
-    url = "/about/"
-    name = "About"
-    weight = 2
-
+    url = "/passions/"
+    name = "Passions"
+    weight = 1
 
 [[menu.main]]
     url = "/projects/"
     name = "Projects"
+    weight = 2
+
+[[menu.main]]
+    url = "/about/"
+    name = "About"
     weight = 3
-
-[[menu.main]]
-    url = "/passions/"
-    name = "Passions"
-    weight = 4
-
-    
-[[menu.main]]
-    url = "/dash/"    
-    name = "JRO Dashboard"
-    weight = 5
-
-[[menu.main]]
-    url = "/search"    
-    name = "Search"
-    weight = 6
     
 # "Disable" pagination
 # TODO: Disable pagination in template
