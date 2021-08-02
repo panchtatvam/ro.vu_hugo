@@ -4,7 +4,6 @@
 {{- partial "index_profile.html" . }}
 {{- else }} {{/* if not profileMode */}}
 
-
 {{- if not .IsHome | and .Title }}
 <header class="page-header">
   {{- partial "breadcrumbs.html" . }}
@@ -42,17 +41,18 @@
 {{- partial "home_info.html" . }}
 {{/* vyom:210725 Added tag list to homepage */}}
 <ul class="terms-tags">
-  <li><a href="/no-tags-posts">No tags</a></li>
   {{ range $name, $taxonomy:= .Site.Taxonomies.tags }}
         <li>
             <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }} </a>
         </li>
   {{ end }}
+  {{/* vyom:210730 moved no tags at last #40 */}}
+  <li><a href="/no-tags-posts">Untagged Content</a></li>
 </ul>
 {{- end }}
 
 {{ $term := .Data.Term}}
-{{- range $index, $page := $paginator.Pages }}
+{{- range $index, $page := $paginator.Pages.ByPublishDate }}
 
 {{- $class := "post-entry" }}
 
