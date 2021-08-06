@@ -1,5 +1,4 @@
 ---
-title: "Section 1"
+title: "Weather"
 date: 2021-07-23T08:34:56-06:00
-draft: false
 ---
