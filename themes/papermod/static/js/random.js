@@ -1,6 +1,6 @@
 // thanks to https://www.w3schools.com/js/js_json_http.asp
 var xmlhttp = new XMLHttpRequest();
-var url = "index.json";
+var url = "/index.json";
 
 
 xmlhttp.onreadystatechange = function () {
