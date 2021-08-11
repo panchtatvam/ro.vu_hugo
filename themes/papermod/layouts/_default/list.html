@@ -17,19 +17,19 @@
 {{- end }}
 
 {{/* vyom:210725 List nested sections. Thanks to Guayo Mena via https://github.com/guayom/hugo-nested-sections */}}
-{{ if not .IsHome }}
-{{ with .Sections }}
+{{- if not .IsHome -}}
+{{- with .Sections -}}
 <ul class="terms-tags">
-  {{ range . }}
-    <li>
-        <a href="{{ .Permalink }}">{{ .Title }}  </a>
-    </li>
-  {{ end }}
+  {{- range . -}}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Title }} <sup class="archive-count">&nbsp;{{ len .Pages }}</sup></a>
+  </li>
+  {{- end -}}
 </ul>
-{{ end }}
-{{ end }}
+{{- end -}}
+{{- end -}}
 
-{{- $pages := .RegularPages  }}
+{{- $pages := .RegularPages }}
 
 {{- if .IsHome }}
 {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
@@ -41,18 +41,19 @@
 {{- partial "home_info.html" . }}
 {{/* vyom:210725 Added tag list to homepage */}}
 <ul class="terms-tags">
-  {{ range $name, $taxonomy:= .Site.Taxonomies.tags }}
-        <li>
-            <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }} </a>
-        </li>
-  {{ end }}
+  {{- range $name, $taxonomy:= .Site.Taxonomies.tags -}}
+  <li>
+    <a href="{{ " /tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }} <sup class="archive-count">&nbsp;{{ len
+        .Pages }}</sup></a>
+  </li>
+  {{- end -}}
   {{/* vyom:210730 moved no tags at last #40 */}}
   <li><a href="/no-tags-posts">Untagged Content</a></li>
 </ul>
-{{- end }}
+{{- end -}}
 
 {{ $term := .Data.Term}}
-{{- range $index, $page := $paginator.Pages.ByPublishDate }}
+{{- range $index, $page := first 3 $paginator.Pages.ByLastmod }}
 
 {{- $class := "post-entry" }}
 
