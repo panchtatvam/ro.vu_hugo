@@ -9,6 +9,15 @@ tags : [advice, life-improvement]
 - https://news.ycombinator.com/item?id=25513713#25516108 - Things you're allowed to do
 
 ## Unsorted
+
+"if you look in the mirror in the morning and you’re not excited about what you’re doing that day, go do something else." steve jobs
+
+Bezos quote about "imagining myself 80 on a rocking chair – will I regret not doing this?
+
+
+
+
+
 - I don't need to explain myself. 
     - How it's received: Insecurity
     - Instead: State positive goals, intentions
