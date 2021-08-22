@@ -12,6 +12,9 @@ tags: [planning, life-improvement]
 - Can I stop doing it if I don't like it? Avoids committing long-term to things that don't work out.
 
 
+
+
+
 ## Deciding 
 1. List out
     - Situation & Context
@@ -65,4 +68,10 @@ tags: [planning, life-improvement]
 
 ## Misc
 - When in doubt, Rock-paper-scissors for it. It's fun!
-    
+
+business decisions, ask yourself how important parts of the ecosystem are likely to respond. How will employees deal with this? What will my competitors likely do? What about my suppliers? What about the regulators? 
+
+
+## Resources
+- https://fs.blog/smart-decisions/
+- https://fs.blog/2018/09/decision-matrix/

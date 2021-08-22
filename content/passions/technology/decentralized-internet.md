@@ -3,6 +3,8 @@ title: "Decentralized Internet"
 ---
 
 # File Share
+- FileCoin
+    - https://filecoin.io/filecoin.pdf
 
 # Web
 - IPFS
@@ -14,3 +16,5 @@ title: "Decentralized Internet"
 
 
 # Payments
+
+# Video
