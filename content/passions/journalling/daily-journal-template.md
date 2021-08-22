@@ -1,6 +1,8 @@
 ---
 title: Journal Templates & Ideas
+tags: [journalling, templates]
 ---
+
 
 
 Date - Time - Location
@@ -22,5 +24,6 @@ What's one opportunity I want to go after
 
 Really proud, or amazed/in awe of
 
-
+## Resources
+- https://www.kevinslin.com/notes/f676aa8a-e73d-40c5-b790-29016399ce30.html
 
