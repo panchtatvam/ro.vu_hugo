@@ -12,10 +12,59 @@ tags : [advice, life-improvement]
 
 "if you look in the mirror in the morning and you’re not excited about what you’re doing that day, go do something else." steve jobs
 
+Laughter is the shortest distance between two people
+
 Bezos quote about "imagining myself 80 on a rocking chair – will I regret not doing this?
 
+😴 get enough sleep 🎉 celebrate small wins 🌲 go for a walk in nature 📖 journal what you’re feeling 👯‍♂️ make plans with kind friends 🙅🏽‍♀️ be clear with boundaries 🧹 tidy your living space 💨 take 3 deep breaths 🌌 have gratitude
+
+1. Help yourself
+2. Climb a mountain, tell nobody
+3. More suffering is needed
+4. The enemy is a wonderful teacher
+
+agreements --> commitments --> investments --> improvements
+
+what did I learn, that I want to make sure is INGRAINED for my life
+
+people dont want to be fixed, people want to be heard
+
+listen, ask open questions; rather than solution
+
+"In my experience, X happened, this is what I did "
 
 
+trifecta - victim, hero, anti-hero; all ego based
+hero means theres a victim in the situation
+when try to be the hero, you put the person below, as a victim. doesnt feel empowered. If you try to help, it doesnt
+
+dogs eat first
+clean dishes under old ones
+think slow over time, whittle at an idea
+focus on removing blockers in the moment 
+what task will make me happier in 1week, 1month, 1year
+
+
+where are you? where do you want to be? who are you bringing along?
+
+If you borrow someone’s car, fill it w gas 
+
+sharpen knife before every use
+
+money/power. know what problems you cant buy yourself out of, face it or escape. 
+
+recognize that voice when it says "I can do that later" and instead decide to do it right now. The payoff is huge!
+
+
+guilt and shame are tools for suppressing action and passion. They’re really good tools to get someone to stop doing something; but terrible tools to get someone to start.
+
+Today’s a brand new day to make it happen 
+
+Everyone wants to cast blame rather than shoulder burden 
+
+Now a days, u got to have the audacity to be happy
+
+Im not strong im powerful
 
 
 - I don't need to explain myself. 

@@ -1,4 +1,12 @@
+---
+title: "Youtube-dl"
+---
 
+File name too long
+https://www.reddit.com/r/youtubedl/comments/ddj635/file_name_too_long_error/
+```
+youtube-dl  -o "%(id)s.%(ext)s"
+```
 
 
 

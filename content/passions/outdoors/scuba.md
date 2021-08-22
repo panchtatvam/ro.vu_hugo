@@ -80,3 +80,11 @@ Mask
 
 Snorkel
 Fins
+
+# Scuba advice
+
+If tired, sleep. If wet, time to eat. If dry, time to dive. 
+
+
+# Scuba fun
+- open a bottle of champaign 20 feet deep

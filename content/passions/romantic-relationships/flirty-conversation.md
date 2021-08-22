@@ -1,6 +1,14 @@
 ---
-title: "Flirty Dating Questions"
+title: "Flirty Conversation"
 ---
+
+
+# Situations
+
+## Downer convo
+- Before all of this politics ruin the vibe, I dont want to miss my chance of getting your number. 
+
+## Flirty Questions
 
 Tell me about last vacation you were on and why it was awesome. *
 What’s the first thing you notice when meeting someone for the first time?

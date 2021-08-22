@@ -62,5 +62,7 @@ tags: [planning, life-improvement]
     - Situation, decision, dates
     - What did we learn?
     
-    
+
+## Misc
+- When in doubt, Rock-paper-scissors for it. It's fun!
     

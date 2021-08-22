@@ -2,6 +2,15 @@
 Title: "Salsa Dance"
 ---
 
+# Combo
+basic
+xbody lead
+leader right turn
+follower right turn (left hand)
+xbody lead
+follower left turn
+
+
 # Tips
 - https://www.reddit.com/r/Salsa/comments/6i3jft/what_are_the_hardestscariest_things_guy_beginner/?utm_source=amp&utm_medium=&utm_content=post_body
 - Tips https://www.reddit.com/r/Salsa/comments/qwg8p/what_are_the_best_salsa_tips_youve_ever_received/?utm_source=amp&utm_medium=&utm_content=comments_view_all
