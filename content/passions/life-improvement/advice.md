@@ -10,6 +10,14 @@ tags : [advice, life-improvement]
 
 ## Unsorted
 
+identify and destroy small-return bullshit;
+shut off anything that’s noisier than it is useful;
+make brutally fast decisions about what I don’t need to be doing;
+avoid anything that feels like fake sincerity (esp. where it may touch money);
+demand personal focus on making good things;
+put a handful of real people near the center of everything.
+
+
 "if you look in the mirror in the morning and you’re not excited about what you’re doing that day, go do something else." steve jobs
 
 Laughter is the shortest distance between two people

@@ -75,3 +75,4 @@ business decisions, ask yourself how important parts of the ecosystem are likely
 ## Resources
 - https://fs.blog/smart-decisions/
 - https://fs.blog/2018/09/decision-matrix/
+- https://vasilishynkarenka.com/how-to-make-hard-decisions/
