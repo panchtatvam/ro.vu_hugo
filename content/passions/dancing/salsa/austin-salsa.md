@@ -6,6 +6,13 @@ tags: [salsa, dance, austin]
 
 
 ## Tuesdays
+
+18:15: Beginner salsa group classes @ EsquinaTango
+19::30?: Intermediate salsa group class @ EsquinaTango
+
+
+--
+
 7 PM: Salsa night
 
 Austin Inspired Movement studio - Sensual Tuesdays
@@ -30,7 +37,7 @@ https://goo.gl/maps/PUCSxYjMJgqpzZFZA
 
 ## Fridays
 
-Subscribe to Veracruz Tacos instagram (https://instagram.com/veracruztacos) and Equina Tango instagram (https://instagram.com/esquinatango). They usually have events on Friday. Open air, BBQ style, live band. BYOB. SO MUCH FUN!! I usually make sangria, guacamole, cut up watermelon, etc. 
+Subscribe to Veracruz Tacos instagram (https://instagram.com/veracruztacos) and Equina Tango instagram (https://instagram.com/esquinatango). usually have events on Friday. Open air, BBQ style, live band. BYOB
 
 Location:
 Veracruz All Natural
