@@ -8,6 +8,17 @@ title: "Colombia"
 ### Manilla
 - Vietnamita: Cool vietnamese restaurant
 
+
+### Provenza
+
+close to lleras. no way you can go wrong here! good place to meet people of all cultures
+
+## selina
+roller skating rink, bowling? 
+
+ 
+
+
 ## Dancing
 
 
@@ -41,3 +52,6 @@ Provenza which is around Calle 10
 
 collective - https://instagram.com/elperpetuosocorro
 
+ruta N. innovation hub. small companies, fuel innovation. downtown mde. morning is good, most safe time to go. building is nice.
+
+https://instagram.com/rutan_med?utm_medium=copy_link
