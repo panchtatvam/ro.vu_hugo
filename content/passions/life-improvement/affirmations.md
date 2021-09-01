@@ -1,6 +1,6 @@
 ---
 Title: "Affirmations"
-tags: [life-improvement]
+tags: [life-improvement, personal]
 ---
 
 

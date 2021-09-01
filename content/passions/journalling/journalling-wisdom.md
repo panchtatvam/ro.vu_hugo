@@ -4,11 +4,7 @@ title: "Journalling Wisdom"
 tags: [journalling]
 ---
 
-## Daily Prompts
-What do I need? 
-What do I want? 
-Is what I'm doing serving me? 
-Is there a reason I am not doing things that have been on my list for weeks?
+
 
 ## Monthly prompts
 This month's wins

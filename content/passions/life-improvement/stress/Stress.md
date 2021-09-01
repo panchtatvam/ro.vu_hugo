@@ -1,3 +1,6 @@
+---
+title: "Stress"
+---
 
 What am I observing?
 What am I feeling?

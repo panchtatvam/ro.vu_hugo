@@ -1,28 +1,35 @@
 ---
-title: "Weekly Review & Planning"
-tags: [journalling]
+title: "Weekly Journal Entry Template"
+tags: [journalling, templates]
 ---
 
-https://fortelabs.co/blog/the-one-touch-guide-to-doing-a-weekly-review/
+## Requirements
+- 2 pages (one for past, for for future)
 
-
-
+## Process
 
 
 ## Retrospective
-3 boxes at the end of each weekly spread, 
-- what good happened (+)
-- bad things that happened (-)
-- what could I do better? (Δ)
+- what good happened, accomplishments (+)
+- bad things that happened, setbacks (-)
+- what could I do better? learnings (Δ)
+- What worked? (things I started, did, added or changed that I feel was beneficial) 
+- What didn't work (things I tried that didn't help me or I didn't like or find beneficial)
+- So-so about (things which I did and I am not too sure about or feel neutrally about) 
+- Personal growth (what I did that made progress towards goals) 
+- Problems I encountered & I still need to work on 
+
+## Forward looking
+- What am I excited about? What are some actions to make progress?
+- What am I worried about? What are some actions to reduce the worry?
+- What outcomes would I like to achieve
+    - Review goals. TODO: Link to [Goals]
+- What actions are coming up which I need to think about?
 
 
-## Month 
-2 full pages
--what worked (things I started, did, added or changed that I feel was beneficial) 
--what didn't work (things I tried that didn't help me or I didn't like or find beneficial)
--so-so about (things which I did and I am not too sure about or feel neutrally about) 
--personal growth (what I did that month for me) 
--problems I encountered & I still need to work on 
+## Future statements
+- "In [next month] I will [reflect on what I need to work on to apply it] resulting in [what my goals will bring me to if followed through]
+- "I will repeat (anything I would do again food, travel, books etc)"
 
--in [insert next month] I will (reflect on what I need to work on to apply it) resulting in (what my goals will bring me to if u follow through) 
-- what I will repeat (anything I would do again food, travel, bujo, books, whatever) 
+## Resources
+- https://fortelabs.co/blog/the-one-touch-guide-to-doing-a-weekly-review/
