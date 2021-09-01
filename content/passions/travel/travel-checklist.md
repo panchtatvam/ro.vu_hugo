@@ -2,50 +2,69 @@
 title: "Travel Checklist"
 ---
 
-booking trip
-- put in calendar + ticket info
+## Information Gathering
+- Created list of necessary documents required for travel (e.g. visa)
+- Asked friends who know the destination well
+ - Where do you recommend staying & why
+ - What are top 3 activities you recommended?
+ - Any friends you can introduce me to?
+ - Create a group chat
+- Saved friends recommendations to digital map, making it easy to visit those places when nearby
+ - Choose some places for first couple meals
 
 
 
-before trip
-- gift wishlist
-- star some places for first couple meals
+## After Booking Trip
+- Created calendar events for the flights
+ - Flight number, duration, terminal #, ticket IDs
+- Created calendar events for hotel
+
+## Before trip
+- Created gift wishlist
+ - People, passions/interests
+- Made a list of currency conversions, saved on phone for quick access
+
  
-two days before
-- pack
-- confirm logistics
-
-day before
-charge
-- iphone
-- vape pen
-- battery pack
-- beard trimmer
-- computer
-- speaker
+## Two days before trip
+- Bags are packed (TODO: Link to Travel bag checklist)
+ - Avoid: lighters, liquids, drugs, knives
+- Logistics are reviewed and confirmed
 
 
-make sandwiches 
-plan out clothes
 
- confirm flight details, gate # etc
+## Day before Trip
+- Electronics are charged
+ - Phone
+ - Battery pack
+ - Beard trimmer
+ - Computer
+ - Speaker (optional)
+- Made food for travel
+ - sandwiches 
+ - empty bottle of water for plane
+- Clothes are planned out for travel day, and the following day
 
+Travel logistics are planned and in the calendar
+- Ride to airport
 
-packing list
+# Packing List
+## Personal hygene kit
+- Toothbrush x 2
+- toothpaste x 2
+- Beard trimmer & charger
+- Lotion
+- Condoms
+- Q-tips
+- Anti-itch Shampoo
+- Liquid soap
+- Floss picks
+- Wet wipes
+- Plastic bags
+- Masks x 2
+- Alcohol gel & wipes
 
-personal kit
-- tooth brush
-- tooth paste
-- beard trimmer & charger
-- lotion
-- condoms
-- qtips
-- anti itch shampoo
-- liquid soap
-- floss picks
-- wet wipes
-
-clothes
+## Clothes
+Packed clothes which support weather +/- 10 degrees of what is expected
 - underwear (+ 2 days)
 - socks (+2 days)
 - sweatshirt (plane)
@@ -53,40 +72,46 @@ clothes
 - gym clothes (1-2)
 - sweat pants (pajamas)
 - swim shorts
-shoes
-- sport
-- casual
-- dressy
-- nature
 
-cold weather
+## Footwear
+- sport (gym)
+- casual 
+- dressy (nice dinner, dance)
+- nature (hiking)
+
+## Cold weather items
 - coat
 - gloves
 - earmuffs
 - scarf
 - sweatshirt
 
-hot weather
-- swim shorts 2
+## Hot weather items
+- swim shorts x 2 (allow one to try while using the other)
 - beach towel
-- sunscreen
-nature
+- sunscreen x 2
+- sunglasses + case
+
+## Outdoors items
 - bug spray 
 - boots
 - hiking pants
-- boot socks
 - backpack
+- umbrella
 
-umbrella
-first aid kit
-extra cash
-sunglasses + case
-speaker + charger
-extra masks
-alcohol gel & wipes
+## Emergency items
+- First-aid kit
+- extra cash ($200+)
+
+## Entertainment
+- Speaker + charger (for beach, picnic)
+- Headphones
 
 food
 - sandwiches
+- Granola bar / snacks
+- Water bottle
+- gum
 
 sachel
 - journal case
@@ -96,7 +121,7 @@ sachel
     - notecards
 - battery pack
     * usb mini
-    * lightning
+    * 2 lightning cables (one for on-person battery pack, one for staying at hotel)
 - tool pack
     - leatherman
     - learherman tools
@@ -114,24 +139,12 @@ sachel
     - paracord
     - 
 - wallet
-    - cash
-    - id
-    - cc amex, chase visa
-    - debit ally
-    - $2 bills
-    - notecards
+    - Cash (origin & destination)
+    - ID
+    - Credit cards x 2
+    - Debit cards x 2
+    - Notecards
 - keys
-- sunglasses
-- wet wipes
-- gum
-- airpods
-- vape pen
-- pen
-- granola bar
-- water bottle
-- 
-
-
 
 
 electronics
@@ -141,7 +154,7 @@ electronics
 - computer
 - computer charger
 - battery pack + charger + cables
-- vape pen
+
 
 middle of trip
 - buy gifts
@@ -151,8 +164,7 @@ end of trip
 - plan week
 
 before flight
-- knives in checked bag / hidden
-- weed juice concealed
+- restricted items in checked bag / hidden
 - send flight info to friend & family
 
 after landing
