@@ -4,16 +4,6 @@ date: 2021-06-28
 tags: [planning, life-improvement]
 ---
 
-## Considerations
-- Have I done this before? If not, can I learn something from it?
-- Can I spend only a little time on it before committing further?
-- Can I meet interesting people by doing this activity?
-- Is this something most people like me would say no to? Going against the "crowd wisdom" is an underrated way to gain novel insights.
-- Can I stop doing it if I don't like it? Avoids committing long-term to things that don't work out.
-
-
-
-
 
 ## Deciding 
 1. List out
@@ -65,6 +55,13 @@ tags: [planning, life-improvement]
     - Situation, decision, dates
     - What did we learn?
     
+
+## Considerations
+- Have I done this before? If not, can I learn something from it?
+- Can I spend only a little time on it before committing further?
+- Can I meet interesting people by doing this activity?
+- Is this something most people like me would say no to? Going against the "crowd wisdom" is an underrated way to gain novel insights.
+- Can I stop doing it if I don't like it? Avoids committing long-term to things that don't work out.
 
 ## Misc
 - When in doubt, Rock-paper-scissors for it. It's fun!
