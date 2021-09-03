@@ -62,6 +62,9 @@ Travel logistics are planned and in the calendar
 - Plastic bags
 - Masks x 2
 - Alcohol gel & wipes
+- lock (for hostels)
+- towel (hostel)
+
 
 ## Clothes
 Packed clothes which support weather +/- 10 degrees of what is expected
