@@ -1,14 +1,15 @@
 ---
-Title: "Salsa Dance"
+title: "Salsa Dance"
+tags: [dancing, salsa]
 ---
 
-# Combo
-basic
-xbody lead
-leader right turn
-follower right turn (left hand)
-xbody lead
-follower left turn
+# Basic Combo
+- basic
+- xbody lead
+- leader right turn
+- follower right turn (left hand)
+- xbody lead
+-follower left turn
 
 
 # Tips
