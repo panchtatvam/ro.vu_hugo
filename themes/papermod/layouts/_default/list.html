@@ -43,8 +43,10 @@
 <ul class="terms-tags">
   {{- range $name, $taxonomy:= .Site.Taxonomies.tags -}}
   <li>
+    {{/*
     <a href='{{ "/tags/" | relLangURL }}{{ $name | urlize }}'>{{ $name }} <sup class="archive-count">&nbsp;{{ len
         .Pages }}</sup></a>
+        */}}
   </li>
   {{- end -}}
   {{/* vyom:210730 moved no tags at last #40 */}}
