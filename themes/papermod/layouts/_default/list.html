@@ -43,7 +43,7 @@
 <ul class="terms-tags">
   {{- range $name, $taxonomy:= .Site.Taxonomies.tags -}}
   <li>
-    <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }} <sup class="archive-count">&nbsp;{{ len
+    <a href='{{ "/tags/" | relLangURL }}{{ $name | urlize }}'>{{ $name }} <sup class="archive-count">&nbsp;{{ len
         .Pages }}</sup></a>
   </li>
   {{- end -}}
