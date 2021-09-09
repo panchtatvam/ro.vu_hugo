@@ -1,6 +1,6 @@
 ---
 title: "LogSeq"
---
+---
 
 https://logseq.com/
 
