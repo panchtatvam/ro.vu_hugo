@@ -14,9 +14,13 @@ function loadSearch() {
                 if (data) {
                     // fuse.js options; check fuse.js website for details
                     var options = {
+                        includeScore: 1,
+                        includeMatches: true,
+                        minMatchCharLength: 3,
                         distance: 100,
-                        threshold: 0.4,
+                        threshold: 0.3,
                         ignoreLocation: true,
+                        useExtendedSearch: true,
                         keys: [
                             'title',
                             'permalink',
