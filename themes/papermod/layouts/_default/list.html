@@ -8,12 +8,6 @@
 <header class="page-header">
   {{- partial "breadcrumbs.html" . }}
   <h1>{{ .Title }}</h1>
-  {{/* vyom: 210910 added recent page tag https://app.asana.com/0/1200701714047909/1200742661188824 */}}
-  {{- if eq .Type "passions" -}}
-  <br>
-  <h3>Recent Pages</h3>
-  <br>
-  {{- end -}}
   {{- if .Description }}
   <div class="post-description">
     {{ .Description }}
@@ -35,6 +29,13 @@
 {{- end -}}
 {{- end -}}
 
+{{/* vyom: 210910 added recent page tag https://app.asana.com/0/1200701714047909/1200742661188824 */}}
+{{- if eq .Type "passions" -}}
+<br>
+<h3>Recent Pages</h3>
+<br>
+{{- end -}}
+
 {{- $pages := .RegularPages }}
 
 {{- if .IsHome }}
@@ -45,9 +46,6 @@
 
 {{- if and .IsHome .Site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
 {{- partial "home_info.html" . }}
-{{/* vyom: 210910 added recent page tag https://app.asana.com/0/1200701714047909/1200742661188824 */}}
-<h3>Recent Pages</h3>
-<br>
 {{/* vyom:210725 Added tag list to homepage */}}
 <ul class="terms-tags">
   {{- range $name, $taxonomy:= .Site.Taxonomies.tags -}}
@@ -59,6 +57,13 @@
   <li><a href="/no-tags-posts">Untagged Content</a></li>
 </ul>
 {{- end -}}
+
+{{/* vyom: 210910 added recent page tag https://app.asana.com/0/1200701714047909/1200742661188824 */}}
+{{- if .IsHome -}}
+<br>
+<h3>Recent Pages</h3>
+<br>
+{{ end }}
 
 {{ $term := .Data.Term}}
 {{- range $index, $page := first 3 $paginator.Pages.ByLastmod }}
