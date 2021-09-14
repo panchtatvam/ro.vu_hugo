@@ -1,7 +1,7 @@
 ---
 title: "How to build and maintain wealth"
-date: 2014-01-09
 tags : [finance, advice]
+date : 2009-11-04
 ---
 
 

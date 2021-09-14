@@ -45,10 +45,8 @@
   {{- end }}
   <div class="post-content">
     {{- partial "anchored_headings.html" .Content -}}
-  </div>
-  {{/* vyom: 210914 Add related pages to post as per https://app.asana.com/0/1200701714047909/1200686617443186 */}}
+    {{/* vyom: 210914 Add related pages to post as per https://app.asana.com/0/1200701714047909/1200686617443186 */}}
   <hr/>
-  <br/>
   {{ $related := .Site.RegularPages.Related . | first 5 }}
   {{ with $related }}
   <h3>Related pages</h3>
@@ -59,6 +57,7 @@
     {{ end }}
   </ul>
   {{ end }}
+  </div>
 
   <footer class="post-footer">
     {{/* vyom:210721 moved to footer from title position */}}

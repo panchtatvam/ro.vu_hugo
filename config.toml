@@ -84,9 +84,9 @@ enableRobotsTXT= true
 
 # vyom: 210719 for lastmod automatic date generation
 [frontmatter]
-  date = ["date", "publishDate", "lastmod"]
+  date = ["lastmod", "publishDate", "date"]
   expiryDate = ["expiryDate"]
-  lastmod = [":git", "lastmod", "date", "publishDate"]
+  lastmod = ["lastmod", ":git", "publishDate", "date"]
   publishDate = ["publishDate", "date"]
 
 # fusejs implementation
