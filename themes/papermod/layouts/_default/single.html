@@ -13,7 +13,7 @@
     {{- end }}
     {{- if not (.Param "hideMeta") }}
     <div class="post-meta">
-      {{- partial "post_meta.html" .  -}}
+      {{- partial "post_meta.html" . -}}
       {{- partial "translation_list.html" . -}}
     </div>
     {{- end}}
@@ -28,11 +28,12 @@
       {{- end }}
     </div>
   </header>
-  {{- $isHidden := .Params.cover.hidden | default .Site.Params.cover.hiddenInSingle | default .Site.Params.cover.hidden}}
+  {{- $isHidden := .Params.cover.hidden | default .Site.Params.cover.hiddenInSingle | default
+  .Site.Params.cover.hidden}}
   {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
   {{- if (.Param "ShowToc") }}
   <div class="toc">
-    <details {{if (.Param "TocOpen") }} open{{ end }}>
+    <details {{if (.Param "TocOpen" ) }} open{{ end }}>
       <summary accesskey="c" title="(Alt + C)">
         <div class="details">{{- i18n "toc" | default "Table of Contents" }}</div>
       </summary>
@@ -45,6 +46,20 @@
   <div class="post-content">
     {{- partial "anchored_headings.html" .Content -}}
   </div>
+  {{/* vyom: 210914 Add related pages to post as per https://app.asana.com/0/1200701714047909/1200686617443186 */}}
+  <hr/>
+  <br/>
+  {{ $related := .Site.RegularPages.Related . | first 5 }}
+  {{ with $related }}
+  <h3>Related pages</h3>
+  <br/>
+  <ul>
+    {{ range . }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+  {{ end }}
+
   <footer class="post-footer">
     {{/* vyom:210721 moved to footer from title position */}}
     <div class="post-meta">
@@ -73,8 +88,8 @@
     {{- end }}
     {{- if (and .Site.Params.ShowShareButtons (ne .Params.disableShare true) ) }}
     {{/*
-      vyom:210730 remove share icons #41
-      {{- partial "share_icons.html" . }}
+    vyom:210730 remove share icons #41
+    {{- partial "share_icons.html" . }}
     */}}
     {{- end }}
   </footer>
@@ -83,4 +98,4 @@
   {{- partial "comments.html" . }}
   {{- end }}
 </article>
-{{- end  }}{{/* end main */}}
+{{- end }}{{/* end main */}}
