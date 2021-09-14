@@ -29,6 +29,13 @@
 {{- end -}}
 {{- end -}}
 
+{{/* vyom: 210910 added recent page tag https://app.asana.com/0/1200701714047909/1200742661188824 */}}
+{{- if eq .Type "passions" -}}
+<br>
+<h3>Recent Pages</h3>
+<br>
+{{- end -}}
+
 {{- $pages := .RegularPages }}
 
 {{- if .IsHome }}
@@ -50,6 +57,13 @@
   <li><a href="/no-tags-posts">Untagged Content</a></li>
 </ul>
 {{- end -}}
+
+{{/* vyom: 210910 added recent page tag https://app.asana.com/0/1200701714047909/1200742661188824 */}}
+{{- if .IsHome -}}
+<br>
+<h3>Recent Pages</h3>
+<br>
+{{ end }}
 
 {{ $term := .Data.Term}}
 {{- range $index, $page := first 3 $paginator.Pages.ByLastmod }}
