@@ -1,6 +1,6 @@
 {{- define "main" }}
 
-{{- if (and ..Site.Params.profileMode.enabled .IsHome) }}
+{{- if (and .Site.Params.profileMode.enabled .IsHome) }}
 {{- partial "index_profile.html" . }}
 {{- else }} {{/* if not profileMode */}}
 
@@ -44,11 +44,11 @@
 
 {{ $paginator := .Paginate $pages }}
 
-{{- if and .IsHome ..Site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
+{{- if and .IsHome .Site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
 {{- partial "home_info.html" . }}
 {{/* vyom:210725 Added tag list to homepage */}}
 <ul class="terms-tags">
-  {{- range $name, $taxonomy:= ..Site.Taxonomies.tags -}}
+  {{- range $name, $taxonomy:= .Site.Taxonomies.tags -}}
   <li>
         <a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}">{{ $name }} <sup class="archive-count">&nbsp;{{ len .Pages }}</sup></a>
   </li>
@@ -70,7 +70,7 @@
 
 {{- $class := "post-entry" }}
 
-{{- $user_preferred := or ..Site.Params.disableSpecial1stPost ..Site.Params.homeInfoParams }}
+{{- $user_preferred := or .Site.Params.disableSpecial1stPost .Site.Params.homeInfoParams }}
 {{- if (and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) (not $user_preferred)) }}
 {{- $class = "first-entry" }}
 {{- else if $term }}
@@ -78,7 +78,7 @@
 {{- end }}
 
 <article class="{{ $class }}">
-  {{- $isHidden := (..Site.Params.cover.hidden | default ..Site.Params.cover.hiddenInList)}}
+  {{- $isHidden := (.Site.Params.cover.hidden | default .Site.Params.cover.hiddenInList)}}
   {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
   <header class="entry-header">
     <h2>
